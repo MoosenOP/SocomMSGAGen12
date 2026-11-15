@@ -1,0 +1,1971 @@
+{
+  "a1568593681c8f8b8ea61d2a": {
+    "itemTplToClone": "576165642459773c7a400233",
+    "parentId": "5447b6094bdc2dc3278b4567",
+    "handbookParentId": "5b5f794b86f77409407a7f92",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "weapon_tti_dracarys_gen12_12g_container.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Ergonomics": 50,
+      "Width": 2,
+      "Weight": 1.1,
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ],
+      "isBoltCatch": true,
+      "Foldable": false,
+      "FoldedSlot": "",
+      "ReloadMode": "ExternalMagazine",
+      "defMagType": "3c893ca0df864892c4970258",
+      "RecoilReturnSpeedHandRotation": 2.6,
+      "CameraSnap": 3.4,
+      "RecoilCamera": 0.048,
+      "RecolDispersion": 9,
+      "RecoilCategoryMultiplierHandRotation": 0.19,
+      "Slots": [
+        {
+          "_id": "66002c32c26476d72f2f4f69",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_pistol_grip",
+          "_parent": "a1568593681c8f8b8ea61d2a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "55d4b9964bdc2d1d4e8b456e",
+                  "571659bb2459771fb2755a12",
+                  "602e71bd53a60014f9705bfa",
+                  "6113c3586c780c1e710c90bc",
+                  "6113cc78d3a39d50044c065a",
+                  "6113cce3d92c473c770200c7",
+                  "5cc9bcaed7f00c011c04e179",
+                  "5bb20e18d4351e00320205d5",
+                  "5bb20e0ed4351e3bac1212dc",
+                  "6193dcd0f8ee7e52e4210a28",
+                  "5d025cc1d7ad1a53845279ef",
+                  "5c6d7b3d2e221600114c9b7d",
+                  "57c55efc2459772d2c6271e7",
+                  "57af48872459771f0b2ebf11",
+                  "57c55f092459772d291a8463",
+                  "57c55f112459772d28133310",
+                  "57c55f172459772d27602381",
+                  "5a339805c4a2826c6e06d73d",
+                  "55802f5d4bdc2dac148b458f",
+                  "5d15cf3bd7ad1a67e71518b2",
+                  "59db3a1d86f77429e05b4e92",
+                  "5fbcbd6c187fea44d52eda14",
+                  "59db3acc86f7742a2c4ab912",
+                  "59db3b0886f77429d72fb895",
+                  "615d8faecabb9b7ad90f4d5d",
+                  "5b07db875acfc40dc528a5f6",
+                  "63f5feead259b42f0b4d6d0f",
+                  "652911675ae2ae97b80fdf3c",
+                  "c51219273cbdb3d240faf698",
+                  "44636d326e4368099a6fc24c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "ea362a3fc81936b92781407b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock",
+          "_parent": "a1568593681c8f8b8ea61d2a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a33ca0fc4a282000d72292f",
+                  "5c0faeddd174af02a962601f",
+                  "5649be884bdc2d79388b4577",
+                  "5d120a10d7ad1a4e1026ba85",
+                  "5b0800175acfc400153aebd4",
+                  "5947e98b86f774778f1448bc",
+                  "5947eab886f77475961d96c5",
+                  "602e3f1254072b51b239f713",
+                  "5c793fb92e221644f31bfb64",
+                  "5c793fc42e221600114ca25d",
+                  "591aef7986f774139d495f03",
+                  "591af10186f774139d495f0e",
+                  "627254cc9c563e6e442c398f",
+                  "638de3603a1a4031d8260b8c",
+                  "6761777a1f08ed5e8800b7ac"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "d36816d6c8302707f0358a2b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_magazine",
+          "_parent": "a1568593681c8f8b8ea61d2a",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "3c893ca0df864892c4970258",
+                  "71b6935f560e07319266291e",
+                  "69a3fcb7d52cb670bd1a9d80",
+                  "ecb2420b6aef87a42c2407b6"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+          "_id": "4aa1344b96553954a46f4400",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_reciever",
+          "_parent": "a1568593681c8f8b8ea61d2a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "f00ba3722e268faae8e382a8",
+                  "8194711ae34a9cd37c4a3033",
+                  "85577e55463212a89ca5864c",
+                  "bc8c344e8db10854c135ad32",
+                  "6dae3ad9a9830c64a232db73",
+                  "1bfe0554c7f480ed95016e8d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ],
+      "Chambers": [
+        {
+          "_id": "1ac2ea842c75497ad871daf5",
+          "_mergeSlotWithChildren": false,
+          "_name": "patron_in_weapon",
+          "_parent": "a1568593681c8f8b8ea61d2a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "560d5e524bdc2d25448b4571",
+                  "5d6e6772a4b936088465b17c",
+                  "5d6e67fba4b9361bc73bc779",
+                  "5d6e6806a4b936088465b17e",
+                  "5d6e68dea4b9361bcc29e659",
+                  "5d6e6911a4b9361bd5780d52",
+                  "5c0d591486f7744c505b416f",
+                  "58820d1224597753c90aeb13",
+                  "5d6e68c4a4b9361b93413f79",
+                  "5d6e68a8a4b9360b6c0d54e2",
+                  "5d6e68e6a4b9361c140bcfe0",
+                  "5d6e6869a4b9361c140bcfde",
+                  "5d6e68b3a4b9361bca7e50b5",
+                  "5d6e6891a4b9361bd473feea",
+                  "5d6e689ca4b9361bc8618956",
+                  "5d6e68d1a4b93622fe60e845",
+                  "64b8ee384b75259c590fa89b"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d4af244bdc2d962f8b4571",
+          "_required": false
+        }
+      ],
+      "bFirerate": 600
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM GENESIS-12",
+        "shortName": "GEN-12 SOCOM",
+        "description": "Experimental SOCOM GEN-12 variant with selectable semi-automatic and full-automatic fire. Test build; original Dracarys is unchanged."
+      },
+      "po": {
+        "name": "Escopeta semi-autom\u00e1tica TTI JW4 Dracarys GEN-12 12ga",
+        "shortName": "Dracarys",
+        "description": "Escopeta semiautom\u00e1tica calibre 12 preparada para competi\u00e7\u00e3o pela Taran Tactical Innovations sobre o Genesis Arms GEN-12, um upper de escopeta no padr\u00e3o AR-10 com a\u00e7\u00e3o de recuo curto. Famosa por John Wick 4, mant\u00e9m os comandos do AR, o manejo rec\u00edproco do lado direito e o trilho superior inteiro, e \u00e9 alimentada por carregadores pr\u00f3prios. Modular como qualquer AR: empunhaduras, tubos, coronhas e guarda-m\u00e3os podem ser trocados."
+      },
+      "ru": {
+        "name": "\u0421\u0430\u043c\u043e\u0437\u0430\u0440\u044f\u0434\u043d\u043e\u0435 \u0440\u0443\u0436\u044c\u0435 TTI JW4 Dracarys GEN-12 12\u043a",
+        "shortName": "Dracarys",
+        "description": "\u0421\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u043e \u0434\u043e\u0432\u0435\u0434\u0451\u043d\u043d\u043e\u0435 \u0441\u0430\u043c\u043e\u0437\u0430\u0440\u044f\u0434\u043d\u043e\u0435 \u0440\u0443\u0436\u044c\u0451 12 \u043a\u0430\u043b\u0438\u0431\u0440\u0430, \u0441\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435 Taran Tactical Innovations \u043d\u0430 \u0431\u0430\u0437\u0435 Genesis Arms GEN-12 \u2014 \u0440\u0443\u0436\u0435\u0439\u043d\u043e\u0433\u043e \u0432\u0435\u0440\u0445\u043d\u0435\u0433\u043e \u0440\u0435\u0441\u0438\u0432\u0435\u0440\u0430 \u0444\u043e\u0440\u043c\u0430\u0442\u0430 AR-10 \u0441 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u043e\u0439 \u043d\u0430 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u043c \u0445\u043e\u0434\u0435 \u0441\u0442\u0432\u043e\u043b\u0430. \u041f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u0435\u043d\u043e \u0444\u0438\u043b\u044c\u043c\u043e\u043c \"\u0414\u0436\u043e\u043d \u0423\u0438\u043a 4\"; \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u043f\u0440\u0438\u0432\u044b\u0447\u043d\u044b\u0435 \u043e\u0440\u0433\u0430\u043d\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f AR, \u043f\u043e\u0434\u0432\u0438\u0436\u043d\u0443\u044e \u0440\u0443\u043a\u043e\u044f\u0442\u043a\u0443 \u0432\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0441\u043f\u0440\u0430\u0432\u0430 \u0438 \u0441\u043f\u043b\u043e\u0448\u043d\u0443\u044e \u0432\u0435\u0440\u0445\u043d\u044e\u044e \u043f\u043b\u0430\u043d\u043a\u0443, \u043f\u0438\u0442\u0430\u0435\u0442\u0441\u044f \u0438\u0437 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u043a\u043e\u0440\u043e\u0431\u0447\u0430\u0442\u044b\u0445 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432. \u041c\u043e\u0434\u0443\u043b\u044c\u043d\u043e, \u043a\u0430\u043a \u043b\u044e\u0431\u0430\u044f AR: \u0440\u0443\u043a\u043e\u044f\u0442\u043a\u0438, \u0431\u0443\u0444\u0435\u0440\u043d\u044b\u0435 \u0442\u0440\u0443\u0431\u044b, \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u044b \u0438 \u0446\u0435\u0432\u044c\u044f \u043c\u043e\u0436\u043d\u043e \u043c\u0435\u043d\u044f\u0442\u044c."
+      }
+    },
+    "fleaPriceRoubles": 70000,
+    "handbookPriceRoubles": 55000,
+    "addtoTraders": false,
+    "addtoInventorySlots": [
+      "FirstPrimaryWeapon",
+      "SecondPrimaryWeapon"
+    ],
+    "addtoSecureFilters": false
+  },
+  "69a3fcb7d52cb670bd1a9d80": {
+    "itemTplToClone": "5a966f51a2750c00156aacf6",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mag_dracarys_gen12_12g_10.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.34,
+      "Ergonomics": -1,
+      "ExtraSizeDown": 1,
+      "magAnimationIndex": 4,
+      "Cartridges": [
+        {
+          "_id": "4a90189134ba0e170fbdd5fe",
+          "_max_count": 10,
+          "_name": "cartridges",
+          "_parent": "3c893ca0df864892c4970258",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "560d5e524bdc2d25448b4571",
+                  "5d6e6772a4b936088465b17c",
+                  "5d6e67fba4b9361bc73bc779",
+                  "5d6e6806a4b936088465b17e",
+                  "5d6e68dea4b9361bcc29e659",
+                  "5d6e6911a4b9361bd5780d52",
+                  "5c0d591486f7744c505b416f",
+                  "58820d1224597753c90aeb13",
+                  "5d6e68c4a4b9361b93413f79",
+                  "5d6e68a8a4b9360b6c0d54e2",
+                  "5d6e68e6a4b9361c140bcfe0",
+                  "5d6e6869a4b9361c140bcfde",
+                  "5d6e68b3a4b9361bca7e50b5",
+                  "5d6e6891a4b9361bd473feea",
+                  "5d6e689ca4b9361bc8618956",
+                  "5d6e68d1a4b93622fe60e845",
+                  "64b8ee384b75259c590fa89b"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM Dracarys GEN-12 12ga 10-round magazine",
+        "shortName": "SOCOM GEN-12 10",
+        "description": "A 10-round magazine for the Genesis Arms GEN-12 and the Dracarys. SOCOM-enhanced configuration."
+      },
+      "po": {
+        "name": "Carregador de 10 muni\u00e7\u00f5es Dracarys GEN-12 12ga",
+        "shortName": "GEN-12 10",
+        "description": "Carregador de 10 muni\u00e7\u00f5es para a Genesis Arms GEN-12 e a Dracarys."
+      },
+      "ru": {
+        "name": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043d\u0430 10 \u043f\u0430\u0442\u0440\u043e\u043d\u043e\u0432 12\u043a \u0434\u043b\u044f Dracarys GEN-12",
+        "shortName": "GEN-12 10",
+        "description": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043d\u0430 10 \u043f\u0430\u0442\u0440\u043e\u043d\u043e\u0432 \u0434\u043b\u044f Genesis Arms GEN-12 \u0438 Dracarys."
+      }
+    },
+    "fleaPriceRoubles": 10000,
+    "handbookPriceRoubles": 8000,
+    "addtoTraders": false,
+    "addtoSecureFilters": true,
+    "traders": {}
+  },
+  "ecb2420b6aef87a42c2407b6": {
+    "itemTplToClone": "5a966f51a2750c00156aacf6",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mag_dracarys_gen12_12g_15.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.46,
+      "Ergonomics": -2,
+      "magAnimationIndex": 4,
+      "Cartridges": [
+        {
+          "_id": "9f15725f0715d0d017dcd212",
+          "_max_count": 15,
+          "_name": "cartridges",
+          "_parent": "71b6935f560e07319266291e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "560d5e524bdc2d25448b4571",
+                  "5d6e6772a4b936088465b17c",
+                  "5d6e67fba4b9361bc73bc779",
+                  "5d6e6806a4b936088465b17e",
+                  "5d6e68dea4b9361bcc29e659",
+                  "5d6e6911a4b9361bd5780d52",
+                  "5c0d591486f7744c505b416f",
+                  "58820d1224597753c90aeb13",
+                  "5d6e68c4a4b9361b93413f79",
+                  "5d6e68a8a4b9360b6c0d54e2",
+                  "5d6e68e6a4b9361c140bcfe0",
+                  "5d6e6869a4b9361c140bcfde",
+                  "5d6e68b3a4b9361bca7e50b5",
+                  "5d6e6891a4b9361bd473feea",
+                  "5d6e689ca4b9361bc8618956",
+                  "5d6e68d1a4b93622fe60e845",
+                  "64b8ee384b75259c590fa89b"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM Dracarys GEN-12 12ga 15-round magazine",
+        "shortName": "SOCOM GEN-12 15",
+        "description": "An extended 15-round magazine for the Genesis Arms GEN-12 and the Dracarys. SOCOM-enhanced configuration."
+      },
+      "po": {
+        "name": "Carregador de 15 muni\u00e7\u00f5es Dracarys GEN-12 12ga",
+        "shortName": "GEN-12 15",
+        "description": "Carregador estendido de 15 muni\u00e7\u00f5es para a Genesis Arms GEN-12 e a Dracarys."
+      },
+      "ru": {
+        "name": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043d\u0430 15 \u043f\u0430\u0442\u0440\u043e\u043d\u043e\u0432 12\u043a \u0434\u043b\u044f Dracarys GEN-12",
+        "shortName": "GEN-12 15",
+        "description": "\u0423\u0434\u043b\u0438\u043d\u0451\u043d\u043d\u044b\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u043d\u0430 15 \u043f\u0430\u0442\u0440\u043e\u043d\u043e\u0432 \u0434\u043b\u044f Genesis Arms GEN-12 \u0438 Dracarys."
+      }
+    },
+    "fleaPriceRoubles": 17500,
+    "handbookPriceRoubles": 14000,
+    "addtoTraders": false,
+    "addtoSecureFilters": true,
+    "traders": {}
+  },
+  "bc8c344e8db10854c135ad32": {
+    "itemTplToClone": "55d355e64bdc2d962f8b4569",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "reciever_dracarys_gen12_grey.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.7,
+      "Ergonomics": 2,
+      "Recoil": -5,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "3b0c51a9b90cf826a275e476",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "bc8c344e8db10854c135ad32",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59826745f24ffdc4e68ce11f",
+                  "f6c450b3547026ceda23d7d4",
+                  "a0a326559def9021291f4885",
+                  "02448fdc92bfa64185d93054"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "ee2618c8525d32a9642575c2",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_handguard",
+          "_parent": "bc8c344e8db10854c135ad32",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6374b8ea6e2a1f031b8edb6f",
+                  "9bcbdc63c5362c0992b3609e",
+                  "a5891b6421140c63068c27e9",
+                  "55f84c3c4bdc2d5f408b4576",
+                  "588b56d02459771481110ae2",
+                  "5a329052c4a28200741e22d3",
+                  "5ae30db85acfc408fb139a05",
+                  "5b2cfa535acfc432ff4db7a0",
+                  "5c0e2f5cd174af02a012cfc9",
+                  "5c6d5d8b2e221644fc630b39",
+                  "5c78f2492e221600114c9f04",
+                  "5c78f2612e221600114c9f0d",
+                  "5c78f26f2e221601da3581d1",
+                  "5c78f2792e221600106f4683",
+                  "5c9a25172e2216000f20314e",
+                  "5c9a26332e2216001219ea70",
+                  "5d00e0cbd7ad1a6c6566a42d",
+                  "5d00f63bd7ad1a59283b1c1e",
+                  "5d122e7bd7ad1a07102d6d7f",
+                  "5d123102d7ad1a004e475fe5",
+                  "5d4405f0a4b9361e6a4e6bd9",
+                  "5df916dfbb49d91fb446d6b9",
+                  "5f6336bbda967c74a42e9932",
+                  "6034e3cb0ddce744014cb870",
+                  "6034e3d953a60014f970617b",
+                  "6034e3e20ddce744014cb878",
+                  "6065880c132d4d12c81fd8da",
+                  "6065881d1246154cad35d637",
+                  "6087e0336d0bd7580617bb7a",
+                  "63888bbd28e5cc32cc09d2b6",
+                  "647de824196bf69818044c93",
+                  "68a5dc0c2cd64a8b58023b87",
+                  "68a6fff085a17dc1cb008066",
+                  "68a7000d7708ac5120060527",
+                  "bb7adcd5a60801219d5b8f8d",
+                  "daf70de9cf9cf900b3a4d2de",
+                  "8afbcab186d9ca43b539c927"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "dd690b51039c506d7ee3a3be",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "bc8c344e8db10854c135ad32",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "6761759e7ee06333f108bf86",
+                  "67641a851b2899700609901a",
+                  "68a5ab09c44fa287ba0a97b5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "dcf7dec88eb1f056c1cc5274",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "bc8c344e8db10854c135ad32",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5fb6564947ce63734e3fa1da",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5fc0fa957283c4046c58147e",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM TTI Dracarys GEN-12 12ga receiver (JW4 Grey)",
+        "shortName": "SOCOM GEN-12 Grey",
+        "description": "The upper and lower receiver set of the Dracarys GEN-12 in JW4 Grey: a Genesis Arms 12 gauge short-recoil upper on an AR-10 pattern lower, with a full-length top rail. SOCOM-enhanced configuration."
+      },
+      "po": {
+        "name": "Receiver TTI Dracarys GEN-12 12ga (Cinza JW4)",
+        "shortName": "GEN-12 Cinza",
+        "description": "Conjunto de upper e lower receiver da Dracarys GEN-12 na cor cinza JW4: upper calibre 12 de recuo curto da Genesis Arms sobre um lower padr\u00e3o AR-10, com trilho superior inteiro."
+      },
+      "ru": {
+        "name": "\u0420\u0435\u0441\u0438\u0432\u0435\u0440 \u0434\u043b\u044f TTI Dracarys GEN-12 12\u043a (JW4 Grey)",
+        "shortName": "GEN-12 Grey",
+        "description": "\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u0432\u0435\u0440\u0445\u043d\u0435\u0433\u043e \u0438 \u043d\u0438\u0436\u043d\u0435\u0433\u043e \u0440\u0435\u0441\u0438\u0432\u0435\u0440\u0430 Dracarys GEN-12 \u0432 \u0446\u0432\u0435\u0442\u0435 JW4 Grey: \u0432\u0435\u0440\u0445\u043d\u0438\u0439 \u0440\u0435\u0441\u0438\u0432\u0435\u0440 12 \u043a\u0430\u043b\u0438\u0431\u0440\u0430 Genesis Arms \u0441 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u043e\u0439 \u043d\u0430 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u043c \u0445\u043e\u0434\u0435 \u0441\u0442\u0432\u043e\u043b\u0430 \u043d\u0430 \u043d\u0438\u0436\u043d\u0435\u043c \u0440\u0435\u0441\u0438\u0432\u0435\u0440\u0435 \u0444\u043e\u0440\u043c\u0430\u0442\u0430 AR-10, \u0441\u043e \u0441\u043f\u043b\u043e\u0448\u043d\u043e\u0439 \u0432\u0435\u0440\u0445\u043d\u0435\u0439 \u043f\u043b\u0430\u043d\u043a\u043e\u0439."
+      }
+    },
+    "fleaPriceRoubles": 24000,
+    "handbookPriceRoubles": 20000,
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "6dae3ad9a9830c64a232db73": {
+    "itemTplToClone": "55d355e64bdc2d962f8b4569",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "reciever_dracarys_gen12_black.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.7,
+      "Ergonomics": 2,
+      "Recoil": -5,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "b1ec6cc931d4a38319a26fb9",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "6dae3ad9a9830c64a232db73",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59826745f24ffdc4e68ce11f",
+                  "f6c450b3547026ceda23d7d4",
+                  "a0a326559def9021291f4885",
+                  "02448fdc92bfa64185d93054"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "f80ce6b61293cdeddaac833c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_handguard",
+          "_parent": "6dae3ad9a9830c64a232db73",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6374b8ea6e2a1f031b8edb6f",
+                  "9bcbdc63c5362c0992b3609e",
+                  "a5891b6421140c63068c27e9",
+                  "55f84c3c4bdc2d5f408b4576",
+                  "588b56d02459771481110ae2",
+                  "5a329052c4a28200741e22d3",
+                  "5ae30db85acfc408fb139a05",
+                  "5b2cfa535acfc432ff4db7a0",
+                  "5c0e2f5cd174af02a012cfc9",
+                  "5c6d5d8b2e221644fc630b39",
+                  "5c78f2492e221600114c9f04",
+                  "5c78f2612e221600114c9f0d",
+                  "5c78f26f2e221601da3581d1",
+                  "5c78f2792e221600106f4683",
+                  "5c9a25172e2216000f20314e",
+                  "5c9a26332e2216001219ea70",
+                  "5d00e0cbd7ad1a6c6566a42d",
+                  "5d00f63bd7ad1a59283b1c1e",
+                  "5d122e7bd7ad1a07102d6d7f",
+                  "5d123102d7ad1a004e475fe5",
+                  "5d4405f0a4b9361e6a4e6bd9",
+                  "5df916dfbb49d91fb446d6b9",
+                  "5f6336bbda967c74a42e9932",
+                  "6034e3cb0ddce744014cb870",
+                  "6034e3d953a60014f970617b",
+                  "6034e3e20ddce744014cb878",
+                  "6065880c132d4d12c81fd8da",
+                  "6065881d1246154cad35d637",
+                  "6087e0336d0bd7580617bb7a",
+                  "63888bbd28e5cc32cc09d2b6",
+                  "647de824196bf69818044c93",
+                  "68a5dc0c2cd64a8b58023b87",
+                  "68a6fff085a17dc1cb008066",
+                  "68a7000d7708ac5120060527",
+                  "bb7adcd5a60801219d5b8f8d",
+                  "daf70de9cf9cf900b3a4d2de",
+                  "8afbcab186d9ca43b539c927"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "185365b86fd992ce0b270280",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "6dae3ad9a9830c64a232db73",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "6761759e7ee06333f108bf86",
+                  "67641a851b2899700609901a",
+                  "68a5ab09c44fa287ba0a97b5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "e5c200e1979146d1a93d0331",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "6dae3ad9a9830c64a232db73",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5fb6564947ce63734e3fa1da",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5fc0fa957283c4046c58147e",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM TTI Dracarys GEN-12 12ga receiver (Black)",
+        "shortName": "SOCOM GEN-12 Black",
+        "description": "The upper and lower receiver set of the Dracarys GEN-12 in Black: a Genesis Arms 12 gauge short-recoil upper on an AR-10 pattern lower, with a full-length top rail. SOCOM-enhanced configuration."
+      },
+      "po": {
+        "name": "Receiver TTI Dracarys GEN-12 12ga (Preta)",
+        "shortName": "GEN-12 Preta",
+        "description": "Conjunto de upper e lower receiver da Dracarys GEN-12 na cor preta: upper calibre 12 de recuo curto da Genesis Arms sobre um lower padr\u00e3o AR-10, com trilho superior inteiro."
+      },
+      "ru": {
+        "name": "\u0420\u0435\u0441\u0438\u0432\u0435\u0440 \u0434\u043b\u044f TTI Dracarys GEN-12 12\u043a (\u0427\u0435\u0440\u043d\u044b\u0439)",
+        "shortName": "GEN-12 \u0427\u0435\u0440\u043d\u044b\u0439",
+        "description": "\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u0432\u0435\u0440\u0445\u043d\u0435\u0433\u043e \u0438 \u043d\u0438\u0436\u043d\u0435\u0433\u043e \u0440\u0435\u0441\u0438\u0432\u0435\u0440\u0430 Dracarys GEN-12 \u0432 \u0447\u0451\u0440\u043d\u043e\u043c \u0446\u0432\u0435\u0442\u0435: \u0432\u0435\u0440\u0445\u043d\u0438\u0439 \u0440\u0435\u0441\u0438\u0432\u0435\u0440 12 \u043a\u0430\u043b\u0438\u0431\u0440\u0430 Genesis Arms \u0441 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u043e\u0439 \u043d\u0430 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u043c \u0445\u043e\u0434\u0435 \u0441\u0442\u0432\u043e\u043b\u0430 \u043d\u0430 \u043d\u0438\u0436\u043d\u0435\u043c \u0440\u0435\u0441\u0438\u0432\u0435\u0440\u0435 \u0444\u043e\u0440\u043c\u0430\u0442\u0430 AR-10, \u0441\u043e \u0441\u043f\u043b\u043e\u0448\u043d\u043e\u0439 \u0432\u0435\u0440\u0445\u043d\u0435\u0439 \u043f\u043b\u0430\u043d\u043a\u043e\u0439."
+      }
+    },
+    "fleaPriceRoubles": 24000,
+    "handbookPriceRoubles": 20000,
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "1bfe0554c7f480ed95016e8d": {
+    "itemTplToClone": "55d355e64bdc2d962f8b4569",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "reciever_dracarys_gen12_fde.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.7,
+      "Ergonomics": 2,
+      "Recoil": -5,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "ea6c517e45fa81813e8f8795",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "1bfe0554c7f480ed95016e8d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59826745f24ffdc4e68ce11f",
+                  "f6c450b3547026ceda23d7d4",
+                  "a0a326559def9021291f4885",
+                  "02448fdc92bfa64185d93054"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "b24a412009f0fc679476cbb5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_handguard",
+          "_parent": "1bfe0554c7f480ed95016e8d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6374b8ea6e2a1f031b8edb6f",
+                  "9bcbdc63c5362c0992b3609e",
+                  "a5891b6421140c63068c27e9",
+                  "55f84c3c4bdc2d5f408b4576",
+                  "588b56d02459771481110ae2",
+                  "5a329052c4a28200741e22d3",
+                  "5ae30db85acfc408fb139a05",
+                  "5b2cfa535acfc432ff4db7a0",
+                  "5c0e2f5cd174af02a012cfc9",
+                  "5c6d5d8b2e221644fc630b39",
+                  "5c78f2492e221600114c9f04",
+                  "5c78f2612e221600114c9f0d",
+                  "5c78f26f2e221601da3581d1",
+                  "5c78f2792e221600106f4683",
+                  "5c9a25172e2216000f20314e",
+                  "5c9a26332e2216001219ea70",
+                  "5d00e0cbd7ad1a6c6566a42d",
+                  "5d00f63bd7ad1a59283b1c1e",
+                  "5d122e7bd7ad1a07102d6d7f",
+                  "5d123102d7ad1a004e475fe5",
+                  "5d4405f0a4b9361e6a4e6bd9",
+                  "5df916dfbb49d91fb446d6b9",
+                  "5f6336bbda967c74a42e9932",
+                  "6034e3cb0ddce744014cb870",
+                  "6034e3d953a60014f970617b",
+                  "6034e3e20ddce744014cb878",
+                  "6065880c132d4d12c81fd8da",
+                  "6065881d1246154cad35d637",
+                  "6087e0336d0bd7580617bb7a",
+                  "63888bbd28e5cc32cc09d2b6",
+                  "647de824196bf69818044c93",
+                  "68a5dc0c2cd64a8b58023b87",
+                  "68a6fff085a17dc1cb008066",
+                  "68a7000d7708ac5120060527",
+                  "bb7adcd5a60801219d5b8f8d",
+                  "daf70de9cf9cf900b3a4d2de",
+                  "8afbcab186d9ca43b539c927"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "55f380d8c75d19f1724cb823",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "1bfe0554c7f480ed95016e8d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "6761759e7ee06333f108bf86",
+                  "67641a851b2899700609901a",
+                  "68a5ab09c44fa287ba0a97b5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "59c99bce2e413a1decac36e9",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "1bfe0554c7f480ed95016e8d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5fb6564947ce63734e3fa1da",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5fc0fa957283c4046c58147e",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM TTI Dracarys GEN-12 12ga receiver (FDE)",
+        "shortName": "SOCOM GEN-12 FDE",
+        "description": "The upper and lower receiver set of the Dracarys GEN-12 in FDE: a Genesis Arms 12 gauge short-recoil upper on an AR-10 pattern lower, with a full-length top rail. SOCOM-enhanced configuration."
+      },
+      "po": {
+        "name": "Receiver TTI Dracarys GEN-12 12ga (Areia)",
+        "shortName": "GEN-12 Areia",
+        "description": "Conjunto de upper e lower receiver da Dracarys GEN-12 na cor areia: upper calibre 12 de recuo curto da Genesis Arms sobre um lower padr\u00e3o AR-10, com trilho superior inteiro."
+      },
+      "ru": {
+        "name": "\u0420\u0435\u0441\u0438\u0432\u0435\u0440 \u0434\u043b\u044f TTI Dracarys GEN-12 12\u043a (FDE)",
+        "shortName": "GEN-12 FDE",
+        "description": "\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u0432\u0435\u0440\u0445\u043d\u0435\u0433\u043e \u0438 \u043d\u0438\u0436\u043d\u0435\u0433\u043e \u0440\u0435\u0441\u0438\u0432\u0435\u0440\u0430 Dracarys GEN-12 \u0432 \u0446\u0432\u0435\u0442\u0435 FDE: \u0432\u0435\u0440\u0445\u043d\u0438\u0439 \u0440\u0435\u0441\u0438\u0432\u0435\u0440 12 \u043a\u0430\u043b\u0438\u0431\u0440\u0430 Genesis Arms \u0441 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u043e\u0439 \u043d\u0430 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u043c \u0445\u043e\u0434\u0435 \u0441\u0442\u0432\u043e\u043b\u0430 \u043d\u0430 \u043d\u0438\u0436\u043d\u0435\u043c \u0440\u0435\u0441\u0438\u0432\u0435\u0440\u0435 \u0444\u043e\u0440\u043c\u0430\u0442\u0430 AR-10, \u0441\u043e \u0441\u043f\u043b\u043e\u0448\u043d\u043e\u0439 \u0432\u0435\u0440\u0445\u043d\u0435\u0439 \u043f\u043b\u0430\u043d\u043a\u043e\u0439."
+      }
+    },
+    "fleaPriceRoubles": 24000,
+    "handbookPriceRoubles": 20000,
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "bb7adcd5a60801219d5b8f8d": {
+    "itemTplToClone": "5ea16ada09aa976f2e7a51be",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "handguard_dracarys_gen12_grey.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.32,
+      "Ergonomics": 14,
+      "ExtraSizeLeft": 1,
+      "Recoil": -6,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "6763401cedb902401089e285",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "bb7adcd5a60801219d5b8f8d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "902edaa8bbe39364db3b7856",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "bb7adcd5a60801219d5b8f8d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "0cc1bb16ee968b577a555125",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_002",
+          "_parent": "bb7adcd5a60801219d5b8f8d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "671126b049e181972e0681fa"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "76772eee8d57ec050f996378",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_000",
+          "_parent": "bb7adcd5a60801219d5b8f8d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d4347d4a3e0cf8834ec39647",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "bb7adcd5a60801219d5b8f8d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "80aa4fe142eadac39b814d76",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "bb7adcd5a60801219d5b8f8d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "103b52c1f5547262a12cf64f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "bb7adcd5a60801219d5b8f8d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM TTI Dracarys GEN-12 handguard (JW4 Grey)",
+        "shortName": "SOCOM GEN-12 Grey",
+        "description": "The factory handguard of the Dracarys GEN-12 in JW4 Grey, with a full-length top rail and accessory mounting points. SOCOM-enhanced configuration."
+      },
+      "po": {
+        "name": "Guarda-m\u00e3o TTI Dracarys GEN-12 (Cinza JW4)",
+        "shortName": "GEN-12 Cinza",
+        "description": "Guarda-m\u00e3o de f\u00e1brica da Dracarys GEN-12 na cor cinza JW4, com trilho superior inteiro e pontos para acess\u00f3rios."
+      },
+      "ru": {
+        "name": "\u0426\u0435\u0432\u044c\u0435 \u0434\u043b\u044f TTI Dracarys GEN-12 (JW4 Grey)",
+        "shortName": "GEN-12 Grey",
+        "description": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u043e\u0435 \u0446\u0435\u0432\u044c\u0451 Dracarys GEN-12 \u0432 \u0446\u0432\u0435\u0442\u0435 JW4 Grey \u0441\u043e \u0441\u043f\u043b\u043e\u0448\u043d\u043e\u0439 \u0432\u0435\u0440\u0445\u043d\u0435\u0439 \u043f\u043b\u0430\u043d\u043a\u043e\u0439 \u0438 \u043c\u0435\u0441\u0442\u0430\u043c\u0438 \u0434\u043b\u044f \u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u044f \u0430\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u043e\u0432."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12000,
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "daf70de9cf9cf900b3a4d2de": {
+    "itemTplToClone": "5ea16ada09aa976f2e7a51be",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "handguard_dracarys_gen12_black.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.32,
+      "Ergonomics": 14,
+      "ExtraSizeLeft": 1,
+      "Recoil": -6,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "75775d1e71f81f321fd8c3bc",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "daf70de9cf9cf900b3a4d2de",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "36d473b5eadca63cc4637cd4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "daf70de9cf9cf900b3a4d2de",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "7403761a4de56fc05326d419",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_002",
+          "_parent": "daf70de9cf9cf900b3a4d2de",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "671126b049e181972e0681fa"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "f65d4319c6456ff66a9d84d9",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_000",
+          "_parent": "daf70de9cf9cf900b3a4d2de",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "c0e714496041cf988acd029e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "daf70de9cf9cf900b3a4d2de",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "9d23d069a6e8c39706a89fb6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "daf70de9cf9cf900b3a4d2de",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "4233c0f95df49118328d05d0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "daf70de9cf9cf900b3a4d2de",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM TTI Dracarys GEN-12 handguard (Black)",
+        "shortName": "SOCOM GEN-12 Black",
+        "description": "The factory handguard of the Dracarys GEN-12 in Black, with a full-length top rail and accessory mounting points. SOCOM-enhanced configuration."
+      },
+      "po": {
+        "name": "Guarda-m\u00e3o TTI Dracarys GEN-12 (Preta)",
+        "shortName": "GEN-12 Preta",
+        "description": "Guarda-m\u00e3o de f\u00e1brica da Dracarys GEN-12 na cor preta, com trilho superior inteiro e pontos para acess\u00f3rios."
+      },
+      "ru": {
+        "name": "\u0426\u0435\u0432\u044c\u0435 \u0434\u043b\u044f TTI Dracarys GEN-12 (\u0427\u0435\u0440\u043d\u043e\u0435)",
+        "shortName": "GEN-12 \u0427\u0435\u0440\u043d\u043e\u0435",
+        "description": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u043e\u0435 \u0446\u0435\u0432\u044c\u0451 Dracarys GEN-12 \u0432 \u0447\u0451\u0440\u043d\u043e\u043c \u0446\u0432\u0435\u0442\u0435 \u0441\u043e \u0441\u043f\u043b\u043e\u0448\u043d\u043e\u0439 \u0432\u0435\u0440\u0445\u043d\u0435\u0439 \u043f\u043b\u0430\u043d\u043a\u043e\u0439 \u0438 \u043c\u0435\u0441\u0442\u0430\u043c\u0438 \u0434\u043b\u044f \u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u044f \u0430\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u043e\u0432."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12000,
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "8afbcab186d9ca43b539c927": {
+    "itemTplToClone": "5ea16ada09aa976f2e7a51be",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "handguard_dracarys_gen12_fde.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.32,
+      "Ergonomics": 14,
+      "ExtraSizeLeft": 1,
+      "Recoil": -6,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "af989be3c61db866d06c85f4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "8afbcab186d9ca43b539c927",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "1275e2b32ed3fbfd44032a8c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "8afbcab186d9ca43b539c927",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "fe154382a335ccb68dc037ad",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_002",
+          "_parent": "8afbcab186d9ca43b539c927",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "671126b049e181972e0681fa"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "1d8c9a2adf164211acdde485",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_000",
+          "_parent": "8afbcab186d9ca43b539c927",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "0466df2cfeae6b172d159375",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "8afbcab186d9ca43b539c927",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "97204e29e2d318376f6f852e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "8afbcab186d9ca43b539c927",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "5a9e7f1780aa601b17e84cca",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "8afbcab186d9ca43b539c927",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM TTI Dracarys GEN-12 handguard (FDE)",
+        "shortName": "SOCOM GEN-12 FDE",
+        "description": "The factory handguard of the Dracarys GEN-12 in FDE, with a full-length top rail and accessory mounting points. SOCOM-enhanced configuration."
+      },
+      "po": {
+        "name": "Guarda-m\u00e3o TTI Dracarys GEN-12 (Areia)",
+        "shortName": "GEN-12 Areia",
+        "description": "Guarda-m\u00e3o de f\u00e1brica da Dracarys GEN-12 na cor areia, com trilho superior inteiro e pontos para acess\u00f3rios."
+      },
+      "ru": {
+        "name": "\u0426\u0435\u0432\u044c\u0435 \u0434\u043b\u044f TTI Dracarys GEN-12 (FDE)",
+        "shortName": "GEN-12 FDE",
+        "description": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u043e\u0435 \u0446\u0435\u0432\u044c\u0451 Dracarys GEN-12 \u0432 \u0446\u0432\u0435\u0442\u0435 FDE \u0441\u043e \u0441\u043f\u043b\u043e\u0448\u043d\u043e\u0439 \u0432\u0435\u0440\u0445\u043d\u0435\u0439 \u043f\u043b\u0430\u043d\u043a\u043e\u0439 \u0438 \u043c\u0435\u0441\u0442\u0430\u043c\u0438 \u0434\u043b\u044f \u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u044f \u0430\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u043e\u0432."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12000,
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "a0a326559def9021291f4885": {
+    "itemTplToClone": "66ffac601f7492c901027bbb",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "barrel_dracarys_gen12_267mm_12g.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.85,
+      "Ergonomics": -2,
+      "ExtraSizeLeft": 2,
+      "Recoil": -9,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "f7f2b8ab5e67954a7e4182f0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "a0a326559def9021291f4885",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "d3ae7dd7cb8a4ef4cf189925",
+                  "58272d7f2459774f6311ddfd",
+                  "59fb137a86f7740adb646af1",
+                  "576167ab2459773cad038c43",
+                  "5b363e1b5acfc4771e1c5e80",
+                  "59c0ec5b86f77435b128bfca",
+                  "8851489678b78ad575a33564",
+                  "c6de977280d041e5844209c1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Accuracy": 8,
+      "CoolFactor": 1.3,
+      "HeatFactor": 0.75
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM Dracarys GEN-12 12ga 267mm barrel",
+        "shortName": "SOCOM GEN-12 267mm",
+        "description": "A 267mm (10.5\") barrel for the Dracarys GEN-12, threaded for Saiga-12 pattern muzzle devices. The short-barreled version made famous by John Wick: Chapter 4. SOCOM-enhanced configuration."
+      },
+      "po": {
+        "name": "Cano 267mm para Dracarys GEN-12 12ga",
+        "shortName": "GEN-12 267mm",
+        "description": "Cano de 267 mm (10,5\") para a Dracarys GEN-12, com rosca para bocais do padr\u00e3o Saiga-12. A vers\u00e3o de cano curto famosa em John Wick 4."
+      },
+      "ru": {
+        "name": "\u0421\u0442\u0432\u043e\u043b 267\u043c\u043c \u0434\u043b\u044f Dracarys GEN-12 12\u043a",
+        "shortName": "GEN-12 267\u043c\u043c",
+        "description": "\u0421\u0442\u0432\u043e\u043b 267\u043c\u043c (10,5\") \u0434\u043b\u044f Dracarys GEN-12 \u0441 \u0440\u0435\u0437\u044c\u0431\u043e\u0439 \u043f\u043e\u0434 \u0434\u0443\u043b\u044c\u043d\u044b\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0430 \u0421\u0430\u0439\u0433\u0430-12. \u041a\u043e\u0440\u043e\u0442\u043a\u043e\u0441\u0442\u0432\u043e\u043b\u044c\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f, \u043f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u0435\u043d\u043d\u0430\u044f \u0444\u0438\u043b\u044c\u043c\u043e\u043c \"\u0414\u0436\u043e\u043d \u0423\u0438\u043a 4\"."
+      }
+    },
+    "fleaPriceRoubles": 26250,
+    "handbookPriceRoubles": 21000,
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "02448fdc92bfa64185d93054": {
+    "itemTplToClone": "670fced86a7e274b1a0964e8",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "barrel_dracarys_gen12_457mm_12g.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 1.25,
+      "Ergonomics": -9,
+      "ExtraSizeLeft": 3,
+      "Recoil": -14,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "8b7f4563a5767673abd286cd",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "02448fdc92bfa64185d93054",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "d3ae7dd7cb8a4ef4cf189925",
+                  "58272d7f2459774f6311ddfd",
+                  "59fb137a86f7740adb646af1",
+                  "576167ab2459773cad038c43",
+                  "5b363e1b5acfc4771e1c5e80",
+                  "59c0ec5b86f77435b128bfca",
+                  "8851489678b78ad575a33564",
+                  "c6de977280d041e5844209c1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Accuracy": 12,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.65
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM Dracarys GEN-12 12ga 457mm barrel",
+        "shortName": "SOCOM GEN-12 457mm",
+        "description": "A 457mm (18\") barrel for the Dracarys GEN-12, threaded for Saiga-12 pattern muzzle devices. Higher velocity and a tighter pattern than the short barrel. SOCOM-enhanced configuration."
+      },
+      "po": {
+        "name": "Cano 457mm para Dracarys GEN-12 12ga",
+        "shortName": "GEN-12 457mm",
+        "description": "Cano de 457 mm (18\") para a Dracarys GEN-12, com rosca para bocais do padr\u00e3o Saiga-12. Mais velocidade e um padr\u00e3o mais fechado que o cano curto."
+      },
+      "ru": {
+        "name": "\u0421\u0442\u0432\u043e\u043b 457\u043c\u043c \u0434\u043b\u044f Dracarys GEN-12 12\u043a",
+        "shortName": "GEN-12 457\u043c\u043c",
+        "description": "\u0421\u0442\u0432\u043e\u043b 457\u043c\u043c (18\") \u0434\u043b\u044f Dracarys GEN-12 \u0441 \u0440\u0435\u0437\u044c\u0431\u043e\u0439 \u043f\u043e\u0434 \u0434\u0443\u043b\u044c\u043d\u044b\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0430 \u0421\u0430\u0439\u0433\u0430-12. \u0412\u044b\u0448\u0435 \u043d\u0430\u0447\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0438 \u043a\u0443\u0447\u043d\u0435\u0435 \u043e\u0441\u044b\u043f\u044c, \u0447\u0435\u043c \u0443 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0433\u043e \u0441\u0442\u0432\u043e\u043b\u0430."
+      }
+    },
+    "fleaPriceRoubles": 36250,
+    "handbookPriceRoubles": 29000,
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "8851489678b78ad575a33564": {
+    "itemTplToClone": "58272d7f2459774f6311ddfd",
+    "parentId": "550aa4dd4bdc2dc9348b4569",
+    "handbookParentId": "5b5f72f786f77447ec5d7702",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "muzzle_tti_dracarys_comp_12g.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.15,
+      "Ergonomics": -1,
+      "Recoil": -18,
+      "ConflictingItems": [],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Accuracy": 5
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM TTI Dracarys 12ga compensator",
+        "shortName": "SOCOM TTI comp",
+        "description": "A ported compensator made by Taran Tactical Innovations for the Dracarys GEN-12. Fits Saiga-12 pattern threads. SOCOM-enhanced configuration."
+      },
+      "po": {
+        "name": "Compensador TTI Dracarys 12ga",
+        "shortName": "TTI comp",
+        "description": "Compensador com sa\u00eddas laterais da Taran Tactical Innovations para a Dracarys GEN-12. Compat\u00edvel com roscas do padr\u00e3o Saiga-12."
+      },
+      "ru": {
+        "name": "\u041a\u043e\u043c\u043f\u0435\u043d\u0441\u0430\u0442\u043e\u0440 TTI Dracarys 12\u043a",
+        "shortName": "TTI \u043a\u043e\u043c\u043f.",
+        "description": "\u041a\u043e\u043c\u043f\u0435\u043d\u0441\u0430\u0442\u043e\u0440 \u0441 \u0431\u043e\u043a\u043e\u0432\u044b\u043c\u0438 \u043e\u043a\u043d\u0430\u043c\u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0430 Taran Tactical Innovations \u0434\u043b\u044f Dracarys GEN-12. \u041f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u043d\u0430 \u0440\u0435\u0437\u044c\u0431\u0443 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0430 \u0421\u0430\u0439\u0433\u0430-12."
+      }
+    },
+    "fleaPriceRoubles": 13000,
+    "handbookPriceRoubles": 10500,
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "b0a3beb8efa526e440bcfeee": {
+    "itemTplToClone": "55d4ae6c4bdc2d8b2f8b456e",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "stock_ar15_bcm_gunfighter_mod0.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.28,
+      "Ergonomics": 14,
+      "Recoil": -25,
+      "ConflictingItems": [],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM AR-15 BCM GUNFIGHTER Mod 0 stock",
+        "shortName": "SOCOM GF Mod 0",
+        "description": "The BCM GUNFIGHTER Mod 0 stock for AR-15 buffer tubes, the factory stock of the Dracarys GEN-12. SOCOM-enhanced configuration."
+      },
+      "po": {
+        "name": "Coronha BCM GUNFIGHTER Mod 0",
+        "shortName": "GF Mod 0",
+        "description": "Coronha BCM GUNFIGHTER Mod 0 para tubos de AR-15, a coronha de f\u00e1brica da Dracarys GEN-12."
+      },
+      "ru": {
+        "name": "\u041f\u0440\u0438\u043a\u043b\u0430\u0434 BCM \"GUNFIGHTER Mod 0\" \u0434\u043b\u044f AR-15",
+        "shortName": "GF Mod 0",
+        "description": "\u041f\u0440\u0438\u043a\u043b\u0430\u0434 BCM GUNFIGHTER Mod 0 \u0434\u043b\u044f \u0431\u0443\u0444\u0435\u0440\u043d\u044b\u0445 \u0442\u0440\u0443\u0431 AR-15, \u0448\u0442\u0430\u0442\u043d\u044b\u0439 \u043f\u0440\u0438\u043a\u043b\u0430\u0434 Dracarys GEN-12."
+      }
+    },
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 9500,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock_000",
+      "mod_stock"
+    ],
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "44636d326e4368099a6fc24c": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "pistolgrip_ar15_bcm_gunfighter_mod3.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.07,
+      "Ergonomics": 11,
+      "ConflictingItems": [],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM AR-15 BCM GUNFIGHTER Mod 3 pistol grip",
+        "shortName": "SOCOM GF Mod 3",
+        "description": "The BCM GUNFIGHTER Mod 3 pistol grip for AR-15 based systems, the factory grip of the Dracarys GEN-12. SOCOM-enhanced configuration."
+      },
+      "po": {
+        "name": "Empunhadura BCM GUNFIGHTER Mod 3 para sistemas AR-15",
+        "shortName": "GF Mod 3",
+        "description": "Empunhadura BCM GUNFIGHTER Mod 3 para sistemas AR-15, a empunhadura de f\u00e1brica da Dracarys GEN-12."
+      },
+      "ru": {
+        "name": "\u041f\u0438\u0441\u0442\u043e\u043b\u0435\u0442\u043d\u0430\u044f \u0440\u0443\u043a\u043e\u044f\u0442\u043a\u0430 BCM \"GUNFIGHTER Mod 3\" \u0434\u043b\u044f AR-15",
+        "shortName": "GF Mod 3",
+        "description": "\u041f\u0438\u0441\u0442\u043e\u043b\u0435\u0442\u043d\u0430\u044f \u0440\u0443\u043a\u043e\u044f\u0442\u043a\u0430 BCM GUNFIGHTER Mod 3 \u0434\u043b\u044f \u0441\u0438\u0441\u0442\u0435\u043c \u043d\u0430 \u0431\u0430\u0437\u0435 AR-15, \u0448\u0442\u0430\u0442\u043d\u0430\u044f \u0440\u0443\u043a\u043e\u044f\u0442\u043a\u0430 Dracarys GEN-12."
+      }
+    },
+    "fleaPriceRoubles": 7000,
+    "handbookPriceRoubles": 5600,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "c6de977280d041e5844209c1": {
+    "itemTplToClone": "59c0ec5b86f77435b128bfca",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/mods/silencers/silencer_12g_hexagon_12k.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Ergonomics": -7,
+      "Recoil": -12,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "DurabilityBurnModificator": 0.5
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM Hexagon 12K 12ga sound suppressor",
+        "shortName": "SOCOM Hexagon 12K",
+        "description": "Enhanced SOCOM configuration. SOCOM-enhanced configuration."
+      }
+    },
+    "fleaPriceRoubles": 80000,
+    "handbookPriceRoubles": 70000,
+    "addtoTraders": false
+  }
+}

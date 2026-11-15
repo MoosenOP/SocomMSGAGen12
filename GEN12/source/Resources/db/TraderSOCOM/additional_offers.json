@@ -1,0 +1,338 @@
+{
+  "items": [
+    {
+      "_comment": "SOCOM GEN-12 Automatic (Test 01A)",
+      "_id": "a1568593681c8f8b8ea61d2a",
+      "_tpl": "a1568593681c8f8b8ea61d2a",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM Dracarys GEN-12 12ga 10-round magazine",
+      "_id": "69a3fcb7d52cb670bd1a9d80",
+      "_tpl": "69a3fcb7d52cb670bd1a9d80",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM Dracarys GEN-12 12ga 15-round magazine",
+      "_id": "ecb2420b6aef87a42c2407b6",
+      "_tpl": "ecb2420b6aef87a42c2407b6",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM TTI Dracarys GEN-12 12ga receiver (JW4 Grey)",
+      "_id": "bc8c344e8db10854c135ad32",
+      "_tpl": "bc8c344e8db10854c135ad32",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM TTI Dracarys GEN-12 12ga receiver (Black)",
+      "_id": "6dae3ad9a9830c64a232db73",
+      "_tpl": "6dae3ad9a9830c64a232db73",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM TTI Dracarys GEN-12 12ga receiver (FDE)",
+      "_id": "1bfe0554c7f480ed95016e8d",
+      "_tpl": "1bfe0554c7f480ed95016e8d",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM TTI Dracarys GEN-12 handguard (JW4 Grey)",
+      "_id": "bb7adcd5a60801219d5b8f8d",
+      "_tpl": "bb7adcd5a60801219d5b8f8d",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM TTI Dracarys GEN-12 handguard (Black)",
+      "_id": "daf70de9cf9cf900b3a4d2de",
+      "_tpl": "daf70de9cf9cf900b3a4d2de",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM TTI Dracarys GEN-12 handguard (FDE)",
+      "_id": "8afbcab186d9ca43b539c927",
+      "_tpl": "8afbcab186d9ca43b539c927",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM Dracarys GEN-12 12ga 267mm barrel",
+      "_id": "a0a326559def9021291f4885",
+      "_tpl": "a0a326559def9021291f4885",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM Dracarys GEN-12 12ga 457mm barrel",
+      "_id": "02448fdc92bfa64185d93054",
+      "_tpl": "02448fdc92bfa64185d93054",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM TTI Dracarys 12ga compensator",
+      "_id": "8851489678b78ad575a33564",
+      "_tpl": "8851489678b78ad575a33564",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM AR-15 BCM GUNFIGHTER Mod 0 stock",
+      "_id": "b0a3beb8efa526e440bcfeee",
+      "_tpl": "b0a3beb8efa526e440bcfeee",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM AR-15 BCM GUNFIGHTER Mod 3 pistol grip",
+      "_id": "44636d326e4368099a6fc24c",
+      "_tpl": "44636d326e4368099a6fc24c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM Hexagon 12K 12ga sound suppressor",
+      "_id": "c6de977280d041e5844209c1",
+      "_tpl": "c6de977280d041e5844209c1",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    }
+  ],
+  "barter_scheme": {
+    "a1568593681c8f8b8ea61d2a": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 82500
+        }
+      ]
+    ],
+    "69a3fcb7d52cb670bd1a9d80": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 12000
+        }
+      ]
+    ],
+    "ecb2420b6aef87a42c2407b6": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 21000
+        }
+      ]
+    ],
+    "bc8c344e8db10854c135ad32": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 30000
+        }
+      ]
+    ],
+    "6dae3ad9a9830c64a232db73": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 30000
+        }
+      ]
+    ],
+    "1bfe0554c7f480ed95016e8d": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 30000
+        }
+      ]
+    ],
+    "bb7adcd5a60801219d5b8f8d": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 18000
+        }
+      ]
+    ],
+    "daf70de9cf9cf900b3a4d2de": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 18000
+        }
+      ]
+    ],
+    "8afbcab186d9ca43b539c927": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 18000
+        }
+      ]
+    ],
+    "a0a326559def9021291f4885": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 31500
+        }
+      ]
+    ],
+    "02448fdc92bfa64185d93054": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 43500
+        }
+      ]
+    ],
+    "8851489678b78ad575a33564": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 15800
+        }
+      ]
+    ],
+    "b0a3beb8efa526e440bcfeee": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 14200
+        }
+      ]
+    ],
+    "44636d326e4368099a6fc24c": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 8400
+        }
+      ]
+    ],
+    "c6de977280d041e5844209c1": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 105000
+        }
+      ]
+    ]
+  },
+  "loyal_level_items": {
+    "a1568593681c8f8b8ea61d2a": 3,
+    "69a3fcb7d52cb670bd1a9d80": 3,
+    "ecb2420b6aef87a42c2407b6": 3,
+    "bc8c344e8db10854c135ad32": 3,
+    "6dae3ad9a9830c64a232db73": 3,
+    "1bfe0554c7f480ed95016e8d": 3,
+    "bb7adcd5a60801219d5b8f8d": 3,
+    "daf70de9cf9cf900b3a4d2de": 3,
+    "8afbcab186d9ca43b539c927": 3,
+    "a0a326559def9021291f4885": 3,
+    "02448fdc92bfa64185d93054": 3,
+    "8851489678b78ad575a33564": 3,
+    "b0a3beb8efa526e440bcfeee": 3,
+    "44636d326e4368099a6fc24c": 3,
+    "c6de977280d041e5844209c1": 3
+  }
+}
