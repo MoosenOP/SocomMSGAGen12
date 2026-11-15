@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk"><PropertyGroup><TargetFramework>net10.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable><OutputType>Library</OutputType><AssemblyName>SocomMSGAGen12</AssemblyName><Version>0.1.0</Version><EnableDefaultContentItems>false</EnableDefaultContentItems></PropertyGroup><ItemGroup>
+<Reference Include="SPTarkov.Common"><HintPath>../../references/SPTarkov.Common.dll</HintPath></Reference>
+<Reference Include="SPTarkov.DI"><HintPath>../../references/SPTarkov.DI.dll</HintPath></Reference>
+<Reference Include="SPTarkov.Reflection"><HintPath>../../references/SPTarkov.Reflection.dll</HintPath></Reference>
+<Reference Include="SPTarkov.Server.Core"><HintPath>../../references/SPTarkov.Server.Core.dll</HintPath></Reference>
+<Reference Include="SemanticVersioning"><HintPath>../../references/SemanticVersioning.dll</HintPath></Reference>
+<Reference Include="WTT-ServerCommonLib"><HintPath>../../references/WTT-ServerCommonLib.dll</HintPath></Reference>
+<ProjectReference Include="../../CORE/source/SocomExpansionCore.csproj" />
+<Content Include="Resources/**/*"><Link>%(RecursiveDir)%(Filename)%(Extension)</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></Content></ItemGroup></Project>
