@@ -186,23 +186,24 @@
           "_required": false
         }
       ],
-      "bFirerate": 600
+      "bFirerate": 600,
+      "BackgroundColor": "violet"
     },
     "locales": {
       "en": {
         "name": "SOCOM GENESIS-12",
         "shortName": "GEN-12 SOCOM",
-        "description": "Experimental SOCOM GEN-12 variant with selectable semi-automatic and full-automatic fire. Test build; original Dracarys is unchanged."
+        "description": "SOCOM-configured Genesis Arms GEN-12 shotgun with selectable semi-automatic and fully automatic fire. Built around the Dracarys platform for flexible 12-gauge setups."
       },
       "po": {
-        "name": "Escopeta semi-autom\u00e1tica TTI JW4 Dracarys GEN-12 12ga",
+        "name": "Escopeta semi-automática TTI JW4 Dracarys GEN-12 12ga",
         "shortName": "Dracarys",
-        "description": "Escopeta semiautom\u00e1tica calibre 12 preparada para competi\u00e7\u00e3o pela Taran Tactical Innovations sobre o Genesis Arms GEN-12, um upper de escopeta no padr\u00e3o AR-10 com a\u00e7\u00e3o de recuo curto. Famosa por John Wick 4, mant\u00e9m os comandos do AR, o manejo rec\u00edproco do lado direito e o trilho superior inteiro, e \u00e9 alimentada por carregadores pr\u00f3prios. Modular como qualquer AR: empunhaduras, tubos, coronhas e guarda-m\u00e3os podem ser trocados."
+        "description": "Escopeta semiautomática calibre 12 preparada para competição pela Taran Tactical Innovations sobre o Genesis Arms GEN-12, um upper de escopeta no padrão AR-10 com ação de recuo curto. Famosa por John Wick 4, mantém os comandos do AR, o manejo recíproco do lado direito e o trilho superior inteiro, e é alimentada por carregadores próprios. Modular como qualquer AR: empunhaduras, tubos, coronhas e guarda-mãos podem ser trocados."
       },
       "ru": {
-        "name": "\u0421\u0430\u043c\u043e\u0437\u0430\u0440\u044f\u0434\u043d\u043e\u0435 \u0440\u0443\u0436\u044c\u0435 TTI JW4 Dracarys GEN-12 12\u043a",
+        "name": "Самозарядное ружье TTI JW4 Dracarys GEN-12 12к",
         "shortName": "Dracarys",
-        "description": "\u0421\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u043e \u0434\u043e\u0432\u0435\u0434\u0451\u043d\u043d\u043e\u0435 \u0441\u0430\u043c\u043e\u0437\u0430\u0440\u044f\u0434\u043d\u043e\u0435 \u0440\u0443\u0436\u044c\u0451 12 \u043a\u0430\u043b\u0438\u0431\u0440\u0430, \u0441\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435 Taran Tactical Innovations \u043d\u0430 \u0431\u0430\u0437\u0435 Genesis Arms GEN-12 \u2014 \u0440\u0443\u0436\u0435\u0439\u043d\u043e\u0433\u043e \u0432\u0435\u0440\u0445\u043d\u0435\u0433\u043e \u0440\u0435\u0441\u0438\u0432\u0435\u0440\u0430 \u0444\u043e\u0440\u043c\u0430\u0442\u0430 AR-10 \u0441 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u043e\u0439 \u043d\u0430 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u043c \u0445\u043e\u0434\u0435 \u0441\u0442\u0432\u043e\u043b\u0430. \u041f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u0435\u043d\u043e \u0444\u0438\u043b\u044c\u043c\u043e\u043c \"\u0414\u0436\u043e\u043d \u0423\u0438\u043a 4\"; \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u043f\u0440\u0438\u0432\u044b\u0447\u043d\u044b\u0435 \u043e\u0440\u0433\u0430\u043d\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f AR, \u043f\u043e\u0434\u0432\u0438\u0436\u043d\u0443\u044e \u0440\u0443\u043a\u043e\u044f\u0442\u043a\u0443 \u0432\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0441\u043f\u0440\u0430\u0432\u0430 \u0438 \u0441\u043f\u043b\u043e\u0448\u043d\u0443\u044e \u0432\u0435\u0440\u0445\u043d\u044e\u044e \u043f\u043b\u0430\u043d\u043a\u0443, \u043f\u0438\u0442\u0430\u0435\u0442\u0441\u044f \u0438\u0437 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u043a\u043e\u0440\u043e\u0431\u0447\u0430\u0442\u044b\u0445 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432. \u041c\u043e\u0434\u0443\u043b\u044c\u043d\u043e, \u043a\u0430\u043a \u043b\u044e\u0431\u0430\u044f AR: \u0440\u0443\u043a\u043e\u044f\u0442\u043a\u0438, \u0431\u0443\u0444\u0435\u0440\u043d\u044b\u0435 \u0442\u0440\u0443\u0431\u044b, \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u044b \u0438 \u0446\u0435\u0432\u044c\u044f \u043c\u043e\u0436\u043d\u043e \u043c\u0435\u043d\u044f\u0442\u044c."
+        "description": "Спортивно доведённое самозарядное ружьё 12 калибра, собранное Taran Tactical Innovations на базе Genesis Arms GEN-12 — ружейного верхнего ресивера формата AR-10 с автоматикой на коротком ходе ствола. Прославлено фильмом \"Джон Уик 4\"; сохраняет привычные органы управления AR, подвижную рукоятку взведения справа и сплошную верхнюю планку, питается из собственных коробчатых магазинов. Модульно, как любая AR: рукоятки, буферные трубы, приклады и цевья можно менять."
       }
     },
     "fleaPriceRoubles": 70000,
@@ -270,17 +271,17 @@
       "en": {
         "name": "SOCOM Dracarys GEN-12 12ga 10-round magazine",
         "shortName": "SOCOM GEN-12 10",
-        "description": "A 10-round magazine for the Genesis Arms GEN-12 and the Dracarys. SOCOM-enhanced configuration."
+        "description": "SOCOM-configured 10-round magazine for the Genesis Arms GEN-12 and Dracarys shotgun platform."
       },
       "po": {
-        "name": "Carregador de 10 muni\u00e7\u00f5es Dracarys GEN-12 12ga",
+        "name": "Carregador de 10 munições Dracarys GEN-12 12ga",
         "shortName": "GEN-12 10",
-        "description": "Carregador de 10 muni\u00e7\u00f5es para a Genesis Arms GEN-12 e a Dracarys."
+        "description": "Carregador de 10 munições para a Genesis Arms GEN-12 e a Dracarys."
       },
       "ru": {
-        "name": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043d\u0430 10 \u043f\u0430\u0442\u0440\u043e\u043d\u043e\u0432 12\u043a \u0434\u043b\u044f Dracarys GEN-12",
+        "name": "Магазин на 10 патронов 12к для Dracarys GEN-12",
         "shortName": "GEN-12 10",
-        "description": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043d\u0430 10 \u043f\u0430\u0442\u0440\u043e\u043d\u043e\u0432 \u0434\u043b\u044f Genesis Arms GEN-12 \u0438 Dracarys."
+        "description": "Магазин на 10 патронов для Genesis Arms GEN-12 и Dracarys."
       }
     },
     "fleaPriceRoubles": 10000,
@@ -344,17 +345,17 @@
       "en": {
         "name": "SOCOM Dracarys GEN-12 12ga 15-round magazine",
         "shortName": "SOCOM GEN-12 15",
-        "description": "An extended 15-round magazine for the Genesis Arms GEN-12 and the Dracarys. SOCOM-enhanced configuration."
+        "description": "SOCOM-configured extended 15-round magazine for the Genesis Arms GEN-12 and Dracarys shotgun platform."
       },
       "po": {
-        "name": "Carregador de 15 muni\u00e7\u00f5es Dracarys GEN-12 12ga",
+        "name": "Carregador de 15 munições Dracarys GEN-12 12ga",
         "shortName": "GEN-12 15",
-        "description": "Carregador estendido de 15 muni\u00e7\u00f5es para a Genesis Arms GEN-12 e a Dracarys."
+        "description": "Carregador estendido de 15 munições para a Genesis Arms GEN-12 e a Dracarys."
       },
       "ru": {
-        "name": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043d\u0430 15 \u043f\u0430\u0442\u0440\u043e\u043d\u043e\u0432 12\u043a \u0434\u043b\u044f Dracarys GEN-12",
+        "name": "Магазин на 15 патронов 12к для Dracarys GEN-12",
         "shortName": "GEN-12 15",
-        "description": "\u0423\u0434\u043b\u0438\u043d\u0451\u043d\u043d\u044b\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u043d\u0430 15 \u043f\u0430\u0442\u0440\u043e\u043d\u043e\u0432 \u0434\u043b\u044f Genesis Arms GEN-12 \u0438 Dracarys."
+        "description": "Удлинённый магазин на 15 патронов для Genesis Arms GEN-12 и Dracarys."
       }
     },
     "fleaPriceRoubles": 17500,
@@ -390,7 +391,8 @@
                   "59826745f24ffdc4e68ce11f",
                   "f6c450b3547026ceda23d7d4",
                   "a0a326559def9021291f4885",
-                  "02448fdc92bfa64185d93054"
+                  "02448fdc92bfa64185d93054",
+                  "6a18f1e04e75b912c237aa25"
                 ],
                 "Shift": 0
               }
@@ -444,7 +446,9 @@
                   "68a7000d7708ac5120060527",
                   "bb7adcd5a60801219d5b8f8d",
                   "daf70de9cf9cf900b3a4d2de",
-                  "8afbcab186d9ca43b539c927"
+                  "8afbcab186d9ca43b539c927",
+                  "6a18f1e04e75b912c237aa27",
+                  "6a18f1e04e75b912c237aa2c"
                 ],
                 "Shift": 0
               }
@@ -578,17 +582,17 @@
       "en": {
         "name": "SOCOM TTI Dracarys GEN-12 12ga receiver (JW4 Grey)",
         "shortName": "SOCOM GEN-12 Grey",
-        "description": "The upper and lower receiver set of the Dracarys GEN-12 in JW4 Grey: a Genesis Arms 12 gauge short-recoil upper on an AR-10 pattern lower, with a full-length top rail. SOCOM-enhanced configuration."
+        "description": "SOCOM-configured Dracarys GEN-12 receiver set in JW4 Grey. Combines a 12-gauge short-recoil upper with an AR-10-pattern lower and a full-length optics rail."
       },
       "po": {
         "name": "Receiver TTI Dracarys GEN-12 12ga (Cinza JW4)",
         "shortName": "GEN-12 Cinza",
-        "description": "Conjunto de upper e lower receiver da Dracarys GEN-12 na cor cinza JW4: upper calibre 12 de recuo curto da Genesis Arms sobre um lower padr\u00e3o AR-10, com trilho superior inteiro."
+        "description": "Conjunto de upper e lower receiver da Dracarys GEN-12 na cor cinza JW4: upper calibre 12 de recuo curto da Genesis Arms sobre um lower padrão AR-10, com trilho superior inteiro."
       },
       "ru": {
-        "name": "\u0420\u0435\u0441\u0438\u0432\u0435\u0440 \u0434\u043b\u044f TTI Dracarys GEN-12 12\u043a (JW4 Grey)",
+        "name": "Ресивер для TTI Dracarys GEN-12 12к (JW4 Grey)",
         "shortName": "GEN-12 Grey",
-        "description": "\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u0432\u0435\u0440\u0445\u043d\u0435\u0433\u043e \u0438 \u043d\u0438\u0436\u043d\u0435\u0433\u043e \u0440\u0435\u0441\u0438\u0432\u0435\u0440\u0430 Dracarys GEN-12 \u0432 \u0446\u0432\u0435\u0442\u0435 JW4 Grey: \u0432\u0435\u0440\u0445\u043d\u0438\u0439 \u0440\u0435\u0441\u0438\u0432\u0435\u0440 12 \u043a\u0430\u043b\u0438\u0431\u0440\u0430 Genesis Arms \u0441 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u043e\u0439 \u043d\u0430 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u043c \u0445\u043e\u0434\u0435 \u0441\u0442\u0432\u043e\u043b\u0430 \u043d\u0430 \u043d\u0438\u0436\u043d\u0435\u043c \u0440\u0435\u0441\u0438\u0432\u0435\u0440\u0435 \u0444\u043e\u0440\u043c\u0430\u0442\u0430 AR-10, \u0441\u043e \u0441\u043f\u043b\u043e\u0448\u043d\u043e\u0439 \u0432\u0435\u0440\u0445\u043d\u0435\u0439 \u043f\u043b\u0430\u043d\u043a\u043e\u0439."
+        "description": "Комплект верхнего и нижнего ресивера Dracarys GEN-12 в цвете JW4 Grey: верхний ресивер 12 калибра Genesis Arms с автоматикой на коротком ходе ствола на нижнем ресивере формата AR-10, со сплошной верхней планкой."
       }
     },
     "fleaPriceRoubles": 24000,
@@ -623,7 +627,8 @@
                   "59826745f24ffdc4e68ce11f",
                   "f6c450b3547026ceda23d7d4",
                   "a0a326559def9021291f4885",
-                  "02448fdc92bfa64185d93054"
+                  "02448fdc92bfa64185d93054",
+                  "6a18f1e04e75b912c237aa25"
                 ],
                 "Shift": 0
               }
@@ -677,7 +682,9 @@
                   "68a7000d7708ac5120060527",
                   "bb7adcd5a60801219d5b8f8d",
                   "daf70de9cf9cf900b3a4d2de",
-                  "8afbcab186d9ca43b539c927"
+                  "8afbcab186d9ca43b539c927",
+                  "6a18f1e04e75b912c237aa27",
+                  "6a18f1e04e75b912c237aa2c"
                 ],
                 "Shift": 0
               }
@@ -811,17 +818,17 @@
       "en": {
         "name": "SOCOM TTI Dracarys GEN-12 12ga receiver (Black)",
         "shortName": "SOCOM GEN-12 Black",
-        "description": "The upper and lower receiver set of the Dracarys GEN-12 in Black: a Genesis Arms 12 gauge short-recoil upper on an AR-10 pattern lower, with a full-length top rail. SOCOM-enhanced configuration."
+        "description": "SOCOM-configured Dracarys GEN-12 receiver set in Black. Combines a 12-gauge short-recoil upper with an AR-10-pattern lower and a full-length optics rail."
       },
       "po": {
         "name": "Receiver TTI Dracarys GEN-12 12ga (Preta)",
         "shortName": "GEN-12 Preta",
-        "description": "Conjunto de upper e lower receiver da Dracarys GEN-12 na cor preta: upper calibre 12 de recuo curto da Genesis Arms sobre um lower padr\u00e3o AR-10, com trilho superior inteiro."
+        "description": "Conjunto de upper e lower receiver da Dracarys GEN-12 na cor preta: upper calibre 12 de recuo curto da Genesis Arms sobre um lower padrão AR-10, com trilho superior inteiro."
       },
       "ru": {
-        "name": "\u0420\u0435\u0441\u0438\u0432\u0435\u0440 \u0434\u043b\u044f TTI Dracarys GEN-12 12\u043a (\u0427\u0435\u0440\u043d\u044b\u0439)",
-        "shortName": "GEN-12 \u0427\u0435\u0440\u043d\u044b\u0439",
-        "description": "\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u0432\u0435\u0440\u0445\u043d\u0435\u0433\u043e \u0438 \u043d\u0438\u0436\u043d\u0435\u0433\u043e \u0440\u0435\u0441\u0438\u0432\u0435\u0440\u0430 Dracarys GEN-12 \u0432 \u0447\u0451\u0440\u043d\u043e\u043c \u0446\u0432\u0435\u0442\u0435: \u0432\u0435\u0440\u0445\u043d\u0438\u0439 \u0440\u0435\u0441\u0438\u0432\u0435\u0440 12 \u043a\u0430\u043b\u0438\u0431\u0440\u0430 Genesis Arms \u0441 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u043e\u0439 \u043d\u0430 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u043c \u0445\u043e\u0434\u0435 \u0441\u0442\u0432\u043e\u043b\u0430 \u043d\u0430 \u043d\u0438\u0436\u043d\u0435\u043c \u0440\u0435\u0441\u0438\u0432\u0435\u0440\u0435 \u0444\u043e\u0440\u043c\u0430\u0442\u0430 AR-10, \u0441\u043e \u0441\u043f\u043b\u043e\u0448\u043d\u043e\u0439 \u0432\u0435\u0440\u0445\u043d\u0435\u0439 \u043f\u043b\u0430\u043d\u043a\u043e\u0439."
+        "name": "Ресивер для TTI Dracarys GEN-12 12к (Черный)",
+        "shortName": "GEN-12 Черный",
+        "description": "Комплект верхнего и нижнего ресивера Dracarys GEN-12 в чёрном цвете: верхний ресивер 12 калибра Genesis Arms с автоматикой на коротком ходе ствола на нижнем ресивере формата AR-10, со сплошной верхней планкой."
       }
     },
     "fleaPriceRoubles": 24000,
@@ -856,7 +863,8 @@
                   "59826745f24ffdc4e68ce11f",
                   "f6c450b3547026ceda23d7d4",
                   "a0a326559def9021291f4885",
-                  "02448fdc92bfa64185d93054"
+                  "02448fdc92bfa64185d93054",
+                  "6a18f1e04e75b912c237aa25"
                 ],
                 "Shift": 0
               }
@@ -910,7 +918,9 @@
                   "68a7000d7708ac5120060527",
                   "bb7adcd5a60801219d5b8f8d",
                   "daf70de9cf9cf900b3a4d2de",
-                  "8afbcab186d9ca43b539c927"
+                  "8afbcab186d9ca43b539c927",
+                  "6a18f1e04e75b912c237aa27",
+                  "6a18f1e04e75b912c237aa2c"
                 ],
                 "Shift": 0
               }
@@ -1044,17 +1054,17 @@
       "en": {
         "name": "SOCOM TTI Dracarys GEN-12 12ga receiver (FDE)",
         "shortName": "SOCOM GEN-12 FDE",
-        "description": "The upper and lower receiver set of the Dracarys GEN-12 in FDE: a Genesis Arms 12 gauge short-recoil upper on an AR-10 pattern lower, with a full-length top rail. SOCOM-enhanced configuration."
+        "description": "SOCOM-configured Dracarys GEN-12 receiver set in FDE. Combines a 12-gauge short-recoil upper with an AR-10-pattern lower and a full-length optics rail."
       },
       "po": {
         "name": "Receiver TTI Dracarys GEN-12 12ga (Areia)",
         "shortName": "GEN-12 Areia",
-        "description": "Conjunto de upper e lower receiver da Dracarys GEN-12 na cor areia: upper calibre 12 de recuo curto da Genesis Arms sobre um lower padr\u00e3o AR-10, com trilho superior inteiro."
+        "description": "Conjunto de upper e lower receiver da Dracarys GEN-12 na cor areia: upper calibre 12 de recuo curto da Genesis Arms sobre um lower padrão AR-10, com trilho superior inteiro."
       },
       "ru": {
-        "name": "\u0420\u0435\u0441\u0438\u0432\u0435\u0440 \u0434\u043b\u044f TTI Dracarys GEN-12 12\u043a (FDE)",
+        "name": "Ресивер для TTI Dracarys GEN-12 12к (FDE)",
         "shortName": "GEN-12 FDE",
-        "description": "\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u0432\u0435\u0440\u0445\u043d\u0435\u0433\u043e \u0438 \u043d\u0438\u0436\u043d\u0435\u0433\u043e \u0440\u0435\u0441\u0438\u0432\u0435\u0440\u0430 Dracarys GEN-12 \u0432 \u0446\u0432\u0435\u0442\u0435 FDE: \u0432\u0435\u0440\u0445\u043d\u0438\u0439 \u0440\u0435\u0441\u0438\u0432\u0435\u0440 12 \u043a\u0430\u043b\u0438\u0431\u0440\u0430 Genesis Arms \u0441 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u043e\u0439 \u043d\u0430 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u043c \u0445\u043e\u0434\u0435 \u0441\u0442\u0432\u043e\u043b\u0430 \u043d\u0430 \u043d\u0438\u0436\u043d\u0435\u043c \u0440\u0435\u0441\u0438\u0432\u0435\u0440\u0435 \u0444\u043e\u0440\u043c\u0430\u0442\u0430 AR-10, \u0441\u043e \u0441\u043f\u043b\u043e\u0448\u043d\u043e\u0439 \u0432\u0435\u0440\u0445\u043d\u0435\u0439 \u043f\u043b\u0430\u043d\u043a\u043e\u0439."
+        "description": "Комплект верхнего и нижнего ресивера Dracarys GEN-12 в цвете FDE: верхний ресивер 12 калибра Genesis Arms с автоматикой на коротком ходе ствола на нижнем ресивере формата AR-10, со сплошной верхней планкой."
       }
     },
     "fleaPriceRoubles": 24000,
@@ -1075,7 +1085,7 @@
       "Weight": 0.32,
       "Ergonomics": 14,
       "ExtraSizeLeft": 1,
-      "Recoil": -6,
+      "Recoil": -14,
       "ConflictingItems": [],
       "Slots": [
         {
@@ -1246,17 +1256,17 @@
       "en": {
         "name": "SOCOM TTI Dracarys GEN-12 handguard (JW4 Grey)",
         "shortName": "SOCOM GEN-12 Grey",
-        "description": "The factory handguard of the Dracarys GEN-12 in JW4 Grey, with a full-length top rail and accessory mounting points. SOCOM-enhanced configuration."
+        "description": "SOCOM-tuned Dracarys GEN-12 KeyMod-style handguard in JW4 Grey, with a continuous top rail and mounting positions for sights, optics, tactical devices, and accessories."
       },
       "po": {
-        "name": "Guarda-m\u00e3o TTI Dracarys GEN-12 (Cinza JW4)",
+        "name": "Guarda-mão TTI Dracarys GEN-12 (Cinza JW4)",
         "shortName": "GEN-12 Cinza",
-        "description": "Guarda-m\u00e3o de f\u00e1brica da Dracarys GEN-12 na cor cinza JW4, com trilho superior inteiro e pontos para acess\u00f3rios."
+        "description": "Guarda-mão de fábrica da Dracarys GEN-12 na cor cinza JW4, com trilho superior inteiro e pontos para acessórios."
       },
       "ru": {
-        "name": "\u0426\u0435\u0432\u044c\u0435 \u0434\u043b\u044f TTI Dracarys GEN-12 (JW4 Grey)",
+        "name": "Цевье для TTI Dracarys GEN-12 (JW4 Grey)",
         "shortName": "GEN-12 Grey",
-        "description": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u043e\u0435 \u0446\u0435\u0432\u044c\u0451 Dracarys GEN-12 \u0432 \u0446\u0432\u0435\u0442\u0435 JW4 Grey \u0441\u043e \u0441\u043f\u043b\u043e\u0448\u043d\u043e\u0439 \u0432\u0435\u0440\u0445\u043d\u0435\u0439 \u043f\u043b\u0430\u043d\u043a\u043e\u0439 \u0438 \u043c\u0435\u0441\u0442\u0430\u043c\u0438 \u0434\u043b\u044f \u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u044f \u0430\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u043e\u0432."
+        "description": "Заводское цевьё Dracarys GEN-12 в цвете JW4 Grey со сплошной верхней планкой и местами для крепления аксессуаров."
       }
     },
     "fleaPriceRoubles": 15000,
@@ -1277,7 +1287,7 @@
       "Weight": 0.32,
       "Ergonomics": 14,
       "ExtraSizeLeft": 1,
-      "Recoil": -6,
+      "Recoil": -14,
       "ConflictingItems": [],
       "Slots": [
         {
@@ -1448,17 +1458,17 @@
       "en": {
         "name": "SOCOM TTI Dracarys GEN-12 handguard (Black)",
         "shortName": "SOCOM GEN-12 Black",
-        "description": "The factory handguard of the Dracarys GEN-12 in Black, with a full-length top rail and accessory mounting points. SOCOM-enhanced configuration."
+        "description": "SOCOM-tuned Dracarys GEN-12 KeyMod-style handguard in Black, with a continuous top rail and mounting positions for sights, optics, tactical devices, and accessories."
       },
       "po": {
-        "name": "Guarda-m\u00e3o TTI Dracarys GEN-12 (Preta)",
+        "name": "Guarda-mão TTI Dracarys GEN-12 (Preta)",
         "shortName": "GEN-12 Preta",
-        "description": "Guarda-m\u00e3o de f\u00e1brica da Dracarys GEN-12 na cor preta, com trilho superior inteiro e pontos para acess\u00f3rios."
+        "description": "Guarda-mão de fábrica da Dracarys GEN-12 na cor preta, com trilho superior inteiro e pontos para acessórios."
       },
       "ru": {
-        "name": "\u0426\u0435\u0432\u044c\u0435 \u0434\u043b\u044f TTI Dracarys GEN-12 (\u0427\u0435\u0440\u043d\u043e\u0435)",
-        "shortName": "GEN-12 \u0427\u0435\u0440\u043d\u043e\u0435",
-        "description": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u043e\u0435 \u0446\u0435\u0432\u044c\u0451 Dracarys GEN-12 \u0432 \u0447\u0451\u0440\u043d\u043e\u043c \u0446\u0432\u0435\u0442\u0435 \u0441\u043e \u0441\u043f\u043b\u043e\u0448\u043d\u043e\u0439 \u0432\u0435\u0440\u0445\u043d\u0435\u0439 \u043f\u043b\u0430\u043d\u043a\u043e\u0439 \u0438 \u043c\u0435\u0441\u0442\u0430\u043c\u0438 \u0434\u043b\u044f \u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u044f \u0430\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u043e\u0432."
+        "name": "Цевье для TTI Dracarys GEN-12 (Черное)",
+        "shortName": "GEN-12 Черное",
+        "description": "Заводское цевьё Dracarys GEN-12 в чёрном цвете со сплошной верхней планкой и местами для крепления аксессуаров."
       }
     },
     "fleaPriceRoubles": 15000,
@@ -1479,7 +1489,7 @@
       "Weight": 0.32,
       "Ergonomics": 14,
       "ExtraSizeLeft": 1,
-      "Recoil": -6,
+      "Recoil": -14,
       "ConflictingItems": [],
       "Slots": [
         {
@@ -1650,17 +1660,17 @@
       "en": {
         "name": "SOCOM TTI Dracarys GEN-12 handguard (FDE)",
         "shortName": "SOCOM GEN-12 FDE",
-        "description": "The factory handguard of the Dracarys GEN-12 in FDE, with a full-length top rail and accessory mounting points. SOCOM-enhanced configuration."
+        "description": "SOCOM-tuned Dracarys GEN-12 KeyMod-style handguard in FDE, with a continuous top rail and mounting positions for sights, optics, tactical devices, and accessories."
       },
       "po": {
-        "name": "Guarda-m\u00e3o TTI Dracarys GEN-12 (Areia)",
+        "name": "Guarda-mão TTI Dracarys GEN-12 (Areia)",
         "shortName": "GEN-12 Areia",
-        "description": "Guarda-m\u00e3o de f\u00e1brica da Dracarys GEN-12 na cor areia, com trilho superior inteiro e pontos para acess\u00f3rios."
+        "description": "Guarda-mão de fábrica da Dracarys GEN-12 na cor areia, com trilho superior inteiro e pontos para acessórios."
       },
       "ru": {
-        "name": "\u0426\u0435\u0432\u044c\u0435 \u0434\u043b\u044f TTI Dracarys GEN-12 (FDE)",
+        "name": "Цевье для TTI Dracarys GEN-12 (FDE)",
         "shortName": "GEN-12 FDE",
-        "description": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u043e\u0435 \u0446\u0435\u0432\u044c\u0451 Dracarys GEN-12 \u0432 \u0446\u0432\u0435\u0442\u0435 FDE \u0441\u043e \u0441\u043f\u043b\u043e\u0448\u043d\u043e\u0439 \u0432\u0435\u0440\u0445\u043d\u0435\u0439 \u043f\u043b\u0430\u043d\u043a\u043e\u0439 \u0438 \u043c\u0435\u0441\u0442\u0430\u043c\u0438 \u0434\u043b\u044f \u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u044f \u0430\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u043e\u0432."
+        "description": "Заводское цевьё Dracarys GEN-12 в цвете FDE со сплошной верхней планкой и местами для крепления аксессуаров."
       }
     },
     "fleaPriceRoubles": 15000,
@@ -1700,7 +1710,8 @@
                   "5b363e1b5acfc4771e1c5e80",
                   "59c0ec5b86f77435b128bfca",
                   "8851489678b78ad575a33564",
-                  "c6de977280d041e5844209c1"
+                  "c6de977280d041e5844209c1",
+                  "6a18f1e04e75b912c237aa31"
                 ],
                 "Shift": 0
               }
@@ -1721,17 +1732,17 @@
       "en": {
         "name": "SOCOM Dracarys GEN-12 12ga 267mm barrel",
         "shortName": "SOCOM GEN-12 267mm",
-        "description": "A 267mm (10.5\") barrel for the Dracarys GEN-12, threaded for Saiga-12 pattern muzzle devices. The short-barreled version made famous by John Wick: Chapter 4. SOCOM-enhanced configuration."
+        "description": "SOCOM-tuned 267mm (10.5-inch) barrel for the Dracarys GEN-12, with Saiga-12-pattern muzzle-device compatibility and a compact shotgun profile."
       },
       "po": {
         "name": "Cano 267mm para Dracarys GEN-12 12ga",
         "shortName": "GEN-12 267mm",
-        "description": "Cano de 267 mm (10,5\") para a Dracarys GEN-12, com rosca para bocais do padr\u00e3o Saiga-12. A vers\u00e3o de cano curto famosa em John Wick 4."
+        "description": "Cano de 267 mm (10,5\") para a Dracarys GEN-12, com rosca para bocais do padrão Saiga-12. A versão de cano curto famosa em John Wick 4."
       },
       "ru": {
-        "name": "\u0421\u0442\u0432\u043e\u043b 267\u043c\u043c \u0434\u043b\u044f Dracarys GEN-12 12\u043a",
-        "shortName": "GEN-12 267\u043c\u043c",
-        "description": "\u0421\u0442\u0432\u043e\u043b 267\u043c\u043c (10,5\") \u0434\u043b\u044f Dracarys GEN-12 \u0441 \u0440\u0435\u0437\u044c\u0431\u043e\u0439 \u043f\u043e\u0434 \u0434\u0443\u043b\u044c\u043d\u044b\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0430 \u0421\u0430\u0439\u0433\u0430-12. \u041a\u043e\u0440\u043e\u0442\u043a\u043e\u0441\u0442\u0432\u043e\u043b\u044c\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f, \u043f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u0435\u043d\u043d\u0430\u044f \u0444\u0438\u043b\u044c\u043c\u043e\u043c \"\u0414\u0436\u043e\u043d \u0423\u0438\u043a 4\"."
+        "name": "Ствол 267мм для Dracarys GEN-12 12к",
+        "shortName": "GEN-12 267мм",
+        "description": "Ствол 267мм (10,5\") для Dracarys GEN-12 с резьбой под дульные устройства стандарта Сайга-12. Короткоствольная версия, прославленная фильмом \"Джон Уик 4\"."
       }
     },
     "fleaPriceRoubles": 26250,
@@ -1771,7 +1782,8 @@
                   "5b363e1b5acfc4771e1c5e80",
                   "59c0ec5b86f77435b128bfca",
                   "8851489678b78ad575a33564",
-                  "c6de977280d041e5844209c1"
+                  "c6de977280d041e5844209c1",
+                  "6a18f1e04e75b912c237aa31"
                 ],
                 "Shift": 0
               }
@@ -1792,17 +1804,17 @@
       "en": {
         "name": "SOCOM Dracarys GEN-12 12ga 457mm barrel",
         "shortName": "SOCOM GEN-12 457mm",
-        "description": "A 457mm (18\") barrel for the Dracarys GEN-12, threaded for Saiga-12 pattern muzzle devices. Higher velocity and a tighter pattern than the short barrel. SOCOM-enhanced configuration."
+        "description": "SOCOM-tuned 457mm (18-inch) barrel for the Dracarys GEN-12, with Saiga-12-pattern muzzle-device compatibility and an extended profile for improved velocity and precision."
       },
       "po": {
         "name": "Cano 457mm para Dracarys GEN-12 12ga",
         "shortName": "GEN-12 457mm",
-        "description": "Cano de 457 mm (18\") para a Dracarys GEN-12, com rosca para bocais do padr\u00e3o Saiga-12. Mais velocidade e um padr\u00e3o mais fechado que o cano curto."
+        "description": "Cano de 457 mm (18\") para a Dracarys GEN-12, com rosca para bocais do padrão Saiga-12. Mais velocidade e um padrão mais fechado que o cano curto."
       },
       "ru": {
-        "name": "\u0421\u0442\u0432\u043e\u043b 457\u043c\u043c \u0434\u043b\u044f Dracarys GEN-12 12\u043a",
-        "shortName": "GEN-12 457\u043c\u043c",
-        "description": "\u0421\u0442\u0432\u043e\u043b 457\u043c\u043c (18\") \u0434\u043b\u044f Dracarys GEN-12 \u0441 \u0440\u0435\u0437\u044c\u0431\u043e\u0439 \u043f\u043e\u0434 \u0434\u0443\u043b\u044c\u043d\u044b\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0430 \u0421\u0430\u0439\u0433\u0430-12. \u0412\u044b\u0448\u0435 \u043d\u0430\u0447\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0438 \u043a\u0443\u0447\u043d\u0435\u0435 \u043e\u0441\u044b\u043f\u044c, \u0447\u0435\u043c \u0443 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0433\u043e \u0441\u0442\u0432\u043e\u043b\u0430."
+        "name": "Ствол 457мм для Dracarys GEN-12 12к",
+        "shortName": "GEN-12 457мм",
+        "description": "Ствол 457мм (18\") для Dracarys GEN-12 с резьбой под дульные устройства стандарта Сайга-12. Выше начальная скорость и кучнее осыпь, чем у короткого ствола."
       }
     },
     "fleaPriceRoubles": 36250,
@@ -1833,17 +1845,17 @@
       "en": {
         "name": "SOCOM TTI Dracarys 12ga compensator",
         "shortName": "SOCOM TTI comp",
-        "description": "A ported compensator made by Taran Tactical Innovations for the Dracarys GEN-12. Fits Saiga-12 pattern threads. SOCOM-enhanced configuration."
+        "description": "SOCOM-tuned Taran Tactical Innovations compensator for the Dracarys GEN-12, designed for compatible 12-gauge muzzle threads."
       },
       "po": {
         "name": "Compensador TTI Dracarys 12ga",
         "shortName": "TTI comp",
-        "description": "Compensador com sa\u00eddas laterais da Taran Tactical Innovations para a Dracarys GEN-12. Compat\u00edvel com roscas do padr\u00e3o Saiga-12."
+        "description": "Compensador com saídas laterais da Taran Tactical Innovations para a Dracarys GEN-12. Compatível com roscas do padrão Saiga-12."
       },
       "ru": {
-        "name": "\u041a\u043e\u043c\u043f\u0435\u043d\u0441\u0430\u0442\u043e\u0440 TTI Dracarys 12\u043a",
-        "shortName": "TTI \u043a\u043e\u043c\u043f.",
-        "description": "\u041a\u043e\u043c\u043f\u0435\u043d\u0441\u0430\u0442\u043e\u0440 \u0441 \u0431\u043e\u043a\u043e\u0432\u044b\u043c\u0438 \u043e\u043a\u043d\u0430\u043c\u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0430 Taran Tactical Innovations \u0434\u043b\u044f Dracarys GEN-12. \u041f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u043d\u0430 \u0440\u0435\u0437\u044c\u0431\u0443 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0430 \u0421\u0430\u0439\u0433\u0430-12."
+        "name": "Компенсатор TTI Dracarys 12к",
+        "shortName": "TTI комп.",
+        "description": "Компенсатор с боковыми окнами производства Taran Tactical Innovations для Dracarys GEN-12. Подходит на резьбу стандарта Сайга-12."
       }
     },
     "fleaPriceRoubles": 13000,
@@ -1873,17 +1885,17 @@
       "en": {
         "name": "SOCOM AR-15 BCM GUNFIGHTER Mod 0 stock",
         "shortName": "SOCOM GF Mod 0",
-        "description": "The BCM GUNFIGHTER Mod 0 stock for AR-15 buffer tubes, the factory stock of the Dracarys GEN-12. SOCOM-enhanced configuration."
+        "description": "SOCOM-tuned BCM GUNFIGHTER Mod 0 buttstock for AR-15-pattern buffer tubes, based on the Dracarys GEN-12 factory stock."
       },
       "po": {
         "name": "Coronha BCM GUNFIGHTER Mod 0",
         "shortName": "GF Mod 0",
-        "description": "Coronha BCM GUNFIGHTER Mod 0 para tubos de AR-15, a coronha de f\u00e1brica da Dracarys GEN-12."
+        "description": "Coronha BCM GUNFIGHTER Mod 0 para tubos de AR-15, a coronha de fábrica da Dracarys GEN-12."
       },
       "ru": {
-        "name": "\u041f\u0440\u0438\u043a\u043b\u0430\u0434 BCM \"GUNFIGHTER Mod 0\" \u0434\u043b\u044f AR-15",
+        "name": "Приклад BCM \"GUNFIGHTER Mod 0\" для AR-15",
         "shortName": "GF Mod 0",
-        "description": "\u041f\u0440\u0438\u043a\u043b\u0430\u0434 BCM GUNFIGHTER Mod 0 \u0434\u043b\u044f \u0431\u0443\u0444\u0435\u0440\u043d\u044b\u0445 \u0442\u0440\u0443\u0431 AR-15, \u0448\u0442\u0430\u0442\u043d\u044b\u0439 \u043f\u0440\u0438\u043a\u043b\u0430\u0434 Dracarys GEN-12."
+        "description": "Приклад BCM GUNFIGHTER Mod 0 для буферных труб AR-15, штатный приклад Dracarys GEN-12."
       }
     },
     "fleaPriceRoubles": 12000,
@@ -1917,17 +1929,17 @@
       "en": {
         "name": "SOCOM AR-15 BCM GUNFIGHTER Mod 3 pistol grip",
         "shortName": "SOCOM GF Mod 3",
-        "description": "The BCM GUNFIGHTER Mod 3 pistol grip for AR-15 based systems, the factory grip of the Dracarys GEN-12. SOCOM-enhanced configuration."
+        "description": "SOCOM-tuned BCM GUNFIGHTER Mod 3 pistol grip for AR-pattern platforms, based on the Dracarys GEN-12 factory grip."
       },
       "po": {
         "name": "Empunhadura BCM GUNFIGHTER Mod 3 para sistemas AR-15",
         "shortName": "GF Mod 3",
-        "description": "Empunhadura BCM GUNFIGHTER Mod 3 para sistemas AR-15, a empunhadura de f\u00e1brica da Dracarys GEN-12."
+        "description": "Empunhadura BCM GUNFIGHTER Mod 3 para sistemas AR-15, a empunhadura de fábrica da Dracarys GEN-12."
       },
       "ru": {
-        "name": "\u041f\u0438\u0441\u0442\u043e\u043b\u0435\u0442\u043d\u0430\u044f \u0440\u0443\u043a\u043e\u044f\u0442\u043a\u0430 BCM \"GUNFIGHTER Mod 3\" \u0434\u043b\u044f AR-15",
+        "name": "Пистолетная рукоятка BCM \"GUNFIGHTER Mod 3\" для AR-15",
         "shortName": "GF Mod 3",
-        "description": "\u041f\u0438\u0441\u0442\u043e\u043b\u0435\u0442\u043d\u0430\u044f \u0440\u0443\u043a\u043e\u044f\u0442\u043a\u0430 BCM GUNFIGHTER Mod 3 \u0434\u043b\u044f \u0441\u0438\u0441\u0442\u0435\u043c \u043d\u0430 \u0431\u0430\u0437\u0435 AR-15, \u0448\u0442\u0430\u0442\u043d\u0430\u044f \u0440\u0443\u043a\u043e\u044f\u0442\u043a\u0430 Dracarys GEN-12."
+        "description": "Пистолетная рукоятка BCM GUNFIGHTER Mod 3 для систем на базе AR-15, штатная рукоятка Dracarys GEN-12."
       }
     },
     "fleaPriceRoubles": 7000,
@@ -1961,11 +1973,415 @@
       "en": {
         "name": "SOCOM Hexagon 12K 12ga sound suppressor",
         "shortName": "SOCOM Hexagon 12K",
-        "description": "Enhanced SOCOM configuration. SOCOM-enhanced configuration."
+        "description": "SOCOM-configured Hexagon 12K sound suppressor for compatible 12-gauge GEN-12 muzzle setups."
       }
     },
     "fleaPriceRoubles": 80000,
     "handbookPriceRoubles": 70000,
+    "addtoTraders": false
+  },
+  "6a18f1e04e75b912c237aa25": {
+    "itemTplToClone": "66ffac601f7492c901027bbb",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "gen12_pdw_barrel_725.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.65,
+      "Ergonomics": 1,
+      "ExtraSizeLeft": 1,
+      "Recoil": -6,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "6a18f1e04e75b912c237aa26",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a18f1e04e75b912c237aa25",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "d3ae7dd7cb8a4ef4cf189925",
+                  "58272d7f2459774f6311ddfd",
+                  "59fb137a86f7740adb646af1",
+                  "576167ab2459773cad038c43",
+                  "59c0ec5b86f77435b128bfca",
+                  "8851489678b78ad575a33564",
+                  "c6de977280d041e5844209c1",
+                  "6a18f1e04e75b912c237aa31"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Accuracy": 6,
+      "CoolFactor": 1.3,
+      "HeatFactor": 0.75
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM GEN-12 12ga 7.25-inch PDW barrel",
+        "shortName": "SOCOM GEN-12 7.25",
+        "description": "SOCOM-tuned 7.25-inch (184mm) PDW barrel for the GEN-12. Compact configuration with a dedicated muzzle-device slot and enhanced cooling characteristics."
+      },
+      "po": {
+        "name": "Cano PDW SOCOM GEN-12 de 7,25 polegadas (Protótipo)",
+        "shortName": "GEN-12 PDW 7,25",
+        "description": "Cano compacto de 7,25 polegadas (184 mm) para GEN-12 na configuração SOCOM, com encaixe para dispositivos de boca e refrigeração aprimorada."
+      },
+      "ru": {
+        "name": "Опытный короткий ствол SOCOM GEN-12 PDW 7,25 дюйма",
+        "shortName": "GEN-12 PDW 7,25",
+        "description": "Компактный ствол 7,25 дюйма (184 мм) для GEN-12 в исполнении SOCOM, с креплением дульных устройств и улучшенным охлаждением."
+      }
+    },
+    "fleaPriceRoubles": 40000,
+    "handbookPriceRoubles": 25000,
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "6a18f1e04e75b912c237aa27": {
+    "itemTplToClone": "5ea16ada09aa976f2e7a51be",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "gen12_sbs7_black.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.22,
+      "Ergonomics": 19,
+      "Width": 2,
+      "ExtraSizeLeft": 1,
+      "Recoil": -9,
+      "ConflictingItems": [
+        "880271055d4dc2c3c0f0f34b"
+      ],
+      "Slots": [
+        {
+          "_id": "6a18f1e04e75b912c237aa28",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "6a18f1e04e75b912c237aa27",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a18f1e04e75b912c237aa29",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "6a18f1e04e75b912c237aa27",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a18f1e04e75b912c237aa2a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "6a18f1e04e75b912c237aa27",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a18f1e04e75b912c237aa2b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "6a18f1e04e75b912c237aa27",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be4895acfc400170e2dd5",
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SOCOM GEN-12 SBS 7-inch M-LOK handguard (Black)",
+        "shortName": "SOCOM GEN-12 SBS 7",
+        "description": "SOCOM-enhanced black 7-inch SBS M-LOK handguard for the GEN-12, offering improved handling and recoil control. Features two accessory-mount positions and a shared front-sight or tactical-device slot."
+      },
+      "po": {
+        "name": "Guarda-mão SOCOM GEN-12 SBS 7 polegadas M-LOK (Preto)",
+        "shortName": "SOCOM GEN-12 SBS 7",
+        "description": "Versão SOCOM aprimorada do guarda-mão SBS7 M-LOK para a GEN-12, com ergonomia melhorada e recuo reduzido."
+      },
+      "ru": {
+        "name": "Цевьё SOCOM GEN-12 SBS 7 дюймов M-LOK (чёрное)",
+        "shortName": "SOCOM GEN-12 SBS 7",
+        "description": "Улучшенное цевьё SBS7 M-LOK для SOCOM GEN-12: повышенная эргономика и уменьшенная отдача."
+      }
+    },
+    "fleaPriceRoubles": 22500,
+    "handbookPriceRoubles": 18000,
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "6a18f1e04e75b912c237aa2c": {
+    "itemTplToClone": "5ea16ada09aa976f2e7a51be",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "gen12_sbs7_black.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.22,
+      "Ergonomics": 4,
+      "Width": 2,
+      "ExtraSizeLeft": 1,
+      "Recoil": -1,
+      "ConflictingItems": [
+        "880271055d4dc2c3c0f0f34b"
+      ],
+      "Slots": [
+        {
+          "_id": "6a18f1e04e75b912c237aa2d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "6a18f1e04e75b912c237aa2c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a18f1e04e75b912c237aa2e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "6a18f1e04e75b912c237aa2c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a18f1e04e75b912c237aa2f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "6a18f1e04e75b912c237aa2c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a18f1e04e75b912c237aa30",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "6a18f1e04e75b912c237aa2c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be4895acfc400170e2dd5",
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "GEN-12 SBS 7-inch M-LOK handguard (Black)",
+        "shortName": "GEN-12 SBS 7",
+        "description": "Compact black 7-inch SBS M-LOK handguard for the GEN-12. Features two accessory-mount positions and a shared front-sight or tactical-device slot."
+      },
+      "po": {
+        "name": "Guarda-mão GEN-12 SBS 7 polegadas M-LOK (Preto)",
+        "shortName": "GEN-12 SBS 7",
+        "description": "Guarda-mão compacto M-LOK para a GEN-12, com trilho superior e pontos de fixação laterais. Feito para o cano PDW de 7,25 polegadas, também compatível com canos mais longos."
+      },
+      "ru": {
+        "name": "Цевьё GEN-12 SBS 7 дюймов M-LOK (чёрное)",
+        "shortName": "GEN-12 SBS 7",
+        "description": "Компактное цевьё M-LOK для GEN-12 с верхней планкой и боковыми креплениями. Предназначено для ствола PDW длиной 7,25 дюйма, подходит и к более длинным стволам."
+      }
+    },
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 10000,
+    "addtoTraders": true,
+    "traders": {
+      "5935c25fb3acc3127c3d8cd9": {
+        "6a18f1e04e75b912c237aa31": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999
+          },
+          "barters": [
+            {
+              "count": 90,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a18f1e04e75b912c237aa31": {
+    "itemTplToClone": "55d614004bdc2d86028b4568",
+    "parentId": "SILENCER",
+    "handbookParentId": "MOD_SUPPRESSOR",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Ergonomics": -7,
+      "Recoil": -22,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "DurabilityBurnModificator": 0.5,
+      "Loudness": -10
+    },
+    "locales": {
+      "en": {
+        "name": "Genesis-12 Suppressor",
+        "shortName": "GEN-12 Supp.",
+        "description": "GEN-12-compatible sound suppressor based on the SureFire SOCOM556-MONSTER housing. SOCOM configuration mounts directly to supported GEN-12 barrel muzzle slots."
+      }
+    },
+    "fleaPriceRoubles": 100000,
+    "handbookPriceRoubles": 75000,
     "addtoTraders": false
   }
 }

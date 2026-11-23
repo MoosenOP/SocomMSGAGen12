@@ -14,7 +14,7 @@ public record ModMetadata : IModMetadata
     public string Name { get; init; } = "SOCOM x MSGA GEN-12 Expansion";
     public string Author { get; init; } = "SOCOM Expansion Project";
     public List<string> Contributors { get; init; } = [];
-    public Version Version { get; init; } = new("1.0.0-rc2");
+    public Version Version { get; init; } = new("1.1.0");
     public Range SptVersion { get; init; } = new("~4.1.6");
     public Dictionary<string, Range> ModDependencies { get; init; } = new()
     {

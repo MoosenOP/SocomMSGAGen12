@@ -1,0 +1,20 @@
+{
+  "manifest": [
+    {
+      "key": "gen12_pdw_barrel_725.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "gen12_sbs7_black.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    }
+  ]
+}

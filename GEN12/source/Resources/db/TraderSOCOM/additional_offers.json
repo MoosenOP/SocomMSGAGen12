@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "_comment": "SOCOM GEN-12 Automatic (Test 01A)",
+      "_comment": "SOCOM GENESIS-12",
       "_id": "a1568593681c8f8b8ea61d2a",
       "_tpl": "a1568593681c8f8b8ea61d2a",
       "parentId": "hideout",
@@ -194,6 +194,45 @@
         "BuyRestrictionMax": 10,
         "BuyRestrictionCurrent": 0
       }
+    },
+    {
+      "_comment": "SOCOM GEN-12 12ga 7.25-inch PDW barrel",
+      "_id": "6a18f1e04e75b912c237aa25",
+      "_tpl": "6a18f1e04e75b912c237aa25",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "SOCOM GEN-12 SBS 7-inch M-LOK handguard (Black)",
+      "_id": "6a18f1e04e75b912c237aa27",
+      "_tpl": "6a18f1e04e75b912c237aa27",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_comment": "Genesis-12 Suppressor (SOCOM clone of SureFire SOCOM556-MONSTER)",
+      "_id": "6a18f1e04e75b912c237aa31",
+      "_tpl": "6a18f1e04e75b912c237aa31",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 10,
+        "BuyRestrictionCurrent": 0
+      }
     }
   ],
   "barter_scheme": {
@@ -316,6 +355,30 @@
           "count": 105000
         }
       ]
+    ],
+    "6a18f1e04e75b912c237aa25": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 37500
+        }
+      ]
+    ],
+    "6a18f1e04e75b912c237aa27": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 18000
+        }
+      ]
+    ],
+    "6a18f1e04e75b912c237aa31": [
+      [
+        {
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "count": 112500
+        }
+      ]
     ]
   },
   "loyal_level_items": {
@@ -333,6 +396,9 @@
     "8851489678b78ad575a33564": 3,
     "b0a3beb8efa526e440bcfeee": 3,
     "44636d326e4368099a6fc24c": 3,
-    "c6de977280d041e5844209c1": 3
+    "c6de977280d041e5844209c1": 3,
+    "6a18f1e04e75b912c237aa25": 3,
+    "6a18f1e04e75b912c237aa27": 3,
+    "6a18f1e04e75b912c237aa31": 3
   }
 }

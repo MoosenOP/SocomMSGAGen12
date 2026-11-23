@@ -1,33 +1,39 @@
-# SOCOM GENESIS-12
+# SOCOM x MSGA GEN-12 Expansion — v1.1.0
 
-An SPT 4.1.6 weapon expansion that adds a separate SOCOM GENESIS-12 shotgun based on content from Make Shotguns Great Again (MSGA).
+A SOCOM-enhanced GEN-12 attachment and weapon expansion for **SPT 4.1.6** and **Make Shotguns Great Again**.
 
-## Features
+## Install
 
-- Selectable semi-automatic and fully automatic fire at 600 RPM
-- SOCOM trader availability at Loyalty Level 3
-- Dedicated weapon and component variants
-- Original MSGA GEN-12 is not replaced or modified
-- Trader offer integration through [SOCOM Expansion Core](https://github.com/MoosenOP/SocomExpansionCore)
+1. Install the required server mods: **SOCOM Expansion Core 0.1.x**, **Make Shotguns Great Again 1.20.x**, and **WTT ServerCommonLib 3.0.x**. Use their SPT 4.1.6-compatible releases. **SOCOM Armory** and its trader must be present to use the SOCOM trader offers.
+2. Back up your existing `SPT_Runtime/user/mods/SocomMSGAGen12/` folder, if present. Remove older copies of the GEN-12 expansion; do not merge trial folders with the release.
+3. Extract this ZIP into your SPT installation folder **containing `SPT_Runtime`**. The resulting mod path should be `SPT_Runtime/user/mods/SocomMSGAGen12/`.
+4. Start the SPT server. Confirm it lists **SOCOM x MSGA GEN-12 Expansion, version 1.1.0**.
 
-## Requirements
+Do not copy files from this package into the underlying MSGA mod. Keep dependency mods independently installed.
 
-- SPT 4.1.6
-- [SOCOM Armory — Unofficial SPT 4.1.6 Port](https://sp-mod.com/mod/3375/socom-armory-unofficial-spt-416-port)
-- [SOCOM Expansion Core](https://github.com/MoosenOP/SocomExpansionCore)
-- Make Shotguns Great Again (MSGA)
-- Dependencies of the above mods, as required by their respective releases
+## What's included
 
-## Source files
+- SOCOM-enhanced GEN-12 receiver, barrel, magazine, and handguard options with purple inventory backgrounds.
+- **7.25-inch PDW barrel**, with its dedicated model and working inventory preview.
+- **7-inch SBS7 M-LOK handguards**, in standard and enhanced SOCOM variants; their front sight position can alternatively fit a compatible tactical light or laser.
+- **Genesis-12 Suppressor**, a GEN-12-compatible SOCOM attachment.
+- 18 component and weapon offers at **SOCOM loyalty level 3**.
 
-This repository tracks the Test 04B Name Cleanup source checkpoint. The source files are in the `GEN12/source` folder to retain the original tested build-kit layout. The distribution ZIP is published separately under GitHub Releases.
+## Selected balance values
 
-The C# project expects a sibling `CORE/source/SocomExpansionCore.csproj` and a `references/` directory in the build-kit root. These are provided or prepared separately from this repository. Third-party reference DLLs are not distributed here.
+| Item | Recoil modifier | Ergonomics |
+| --- | ---: | ---: |
+| SOCOM TTI Dracarys KeyMod-style handguards (JW4 Grey, Black, FDE) | -14% | +14 |
+| SOCOM SBS7 M-LOK handguard | -9% | +19 |
+| Standard SBS7 M-LOK handguard | -1% | +4 |
+| Genesis-12 Suppressor | -22% | -7 |
 
-## License and credits
+See `CHANGELOG.md` for the v1.1.0 changes.
 
-This repository includes the MIT license for its own integration code. The SOCOM Armory and MSGA mods, their assets, and all third-party dependencies retain their own licenses and credits.
+## Files
 
-## Source checkpoint
+The `bundles/` folder contains the short barrel and SBS7 visual assets. `db/CustomItems/` stores item definitions; `db/TraderSOCOM/` stores trader listings. `bundles.json` registers the model bundles. The DLL handles item and trader registration. Do not change these paths without rebuilding the mod.
 
-Test 04B — Name Cleanup. The latest change renamed the in-game SOCOM weapon to **SOCOM GENESIS-12** without changing its gameplay mechanics.
+## Credits and compatibility
+
+This is an add-on for the independently maintained **SPT**, **Make Shotguns Great Again**, **SOCOM Expansion Core**, **WTT ServerCommonLib**, and **SOCOM Armory** projects. All dependency mods retain their own licenses and distribution terms. This package does not include the dependency mods themselves.
